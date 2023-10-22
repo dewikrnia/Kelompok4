@@ -7,7 +7,7 @@
 <p align="center"><b>Version 1.7 </b><br>
 <p align="center">22 Oktober 2023</b>
 <p align="center">
-<img src="https://github.com/dewikrnia/Kelompok4/blob/main/picture/LOGO%20RESMI%20PCR.svg" width="250" height="250"/ >
+<img src="https://github.com/dewikrnia/Kelompok4/blob/main/picture/LOGO%20RESMI%20PCR.svg" width="400" height="400"/ >
 </p>
 
 <p align="center"><b>Sistem Profile SMP Al Azhar Syifa Budi Pekanbaru II<br>
