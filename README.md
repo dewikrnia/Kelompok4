@@ -130,7 +130,6 @@ Tidak ada
 | Edit | Digunakan untuk mengubah data |
 | View | Digunakan untuk menampilkan data |
 | Simpan | Digunakan untuk menyimpan data |
-| Cetak | Digunakan untuk mencetak laporan |
 
 **2.1.8 Kebutuhan adaptasi**
 
