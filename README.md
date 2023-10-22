@@ -10,7 +10,7 @@
 <img src="https://github.com/dewikrnia/Kelompok4/blob/main/picture/LOGO%20RESMI%20PCR.svg" width="250" height="250"/ >
 </p>
 
-<p align="center"><b>Sistem Profile Smp Al Azhar Syifa Budi Pekanbaru II<br>
+<p align="center"><b>Sistem Profile SMP Al Azhar Syifa Budi Pekanbaru II<br>
 </b>
 <p align="center">Kelompok 4 <br>
  Dewi Kurnia Sari            (1603099)<br>
@@ -29,7 +29,7 @@
 ----------
 1.1 Tujuan
 ----------
-Dokumen Software Requirement Specification (SRS) merupakan dokumen   spesifikasi perangkat lunak untuk membangun "Manajemen Administrasi Data Kependudukan Desa Lohbener". Dokumen ini dibangun untuk memudahkan pemerintah desa Lohbener untuk menginput data-data kependudukan yang ada di desa Lohbener. Sehingga dokumen ini dapat dijadikan acuan teknis untuk membangun perangkat lunak "MANAJEMEN ADMINISTRASI DATA KEPENDUDUKAN DESA LOHBENER".
+Dokumen Software Requirement Specification (SRS) merupakan dokumen   spesifikasi perangkat lunak untuk membangun "Sistem Profile SMP Al Azhar Syifa Budi Pekanbaru II". Dokumen ini dibangun untuk memudahkan pemerintah desa Lohbener untuk menginput data-data kependudukan yang ada di desa Lohbener. Sehingga dokumen ini dapat dijadikan acuan teknis untuk membangun perangkat lunak "MANAJEMEN ADMINISTRASI DATA KEPENDUDUKAN DESA LOHBENER".
 
 1.2   Lingkup
 ----------
