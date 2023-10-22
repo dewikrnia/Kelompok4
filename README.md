@@ -29,7 +29,7 @@
 ----------
 1.1 Tujuan
 ----------
-Dokumen Software Requirement Specification (SRS) merupakan dokumen   spesifikasi perangkat lunak untuk membangun "Sistem Profile SMP Al Azhar Syifa Budi Pekanbaru II". Dokumen ini dibangun untuk memudahkan pemerintah desa Lohbener untuk menginput data-data kependudukan yang ada di desa Lohbener. Sehingga dokumen ini dapat dijadikan acuan teknis untuk membangun perangkat lunak "MANAJEMEN ADMINISTRASI DATA KEPENDUDUKAN DESA LOHBENER".
+Dokumen Software Requirement Specification (SRS) merupakan dokumen spesifikasi perangkat lunak untuk membangun "Sistem Profile SMP Al Azhar Syifa Budi Pekanbaru II". Dokumen ini dibangun untuk memudahkan pemerintah desa Lohbener untuk menginput data-data kependudukan yang ada di desa Lohbener. Sehingga dokumen ini dapat dijadikan acuan teknis untuk membangun perangkat lunak "MANAJEMEN ADMINISTRASI DATA KEPENDUDUKAN DESA LOHBENER".
 
 1.2   Lingkup
 ----------
@@ -59,21 +59,15 @@ Bab selanjutnya yaitu menjelaskan sistem yang di terapkan pada aplikasi. Menjela
 
 **BAB II Gambaran umum**
 ----------
-Pada zaman era globalisasi perkembangan teknologi begitu sangat pesat, salah satunya ialah perkembangan teknologi di bidang software engineering dimana software engineering dapat digunakan dalam kehidupan sehari - hari .dalam studi kasus Proyek II ini kami menganalisis kebutuhan suatu desa di daerah Indramayu tepatnya di desa Lohbener Kecamatan Lohbener .kasus yang kami peroleh pembuatan laporan kependudukan di desa Lohbener ini. Maka dari itu kami sebagai software engineering merancang sebuah sistem sesuai dengan kebutuhan pemerintah desa dengan menerapkan manajemen administrasi data kependudukan desa Lohbener. Sehingga memudahkan admin dalam menginputkan data-data kependudukan. Software yang kami buat ini berbasis website dimana website sebagai admin, sekdes dan kepala desa. Sistem yang kami buat di dalamnya terdapat angka kelahiran, angka kematian, pekerjaan, agama, laporan ( untuk admin/sekdes ), grafik dan laporan ( untuk kepala desa ). Berikut akan kami jelaskan  sistem software kami,  admin fungsi utama yaitu :
-   - Input Angka Kelahiran
-   - Input Angka Kematian
-   - Input Agama
-   - Input Pendidikan
-   - Input Pekerjaan
-   - Laporan
+Dalam era globalisasi dengan perkembangan teknologi yang pesat, lembaga pendidikan, seperti sekolah, perlu mengikuti perkembangan ini untuk meningkatkan efisiensi dan komunikasi dengan semua pemangku kepentingan, termasuk siswa, orang tua, guru, dan staf sekolah. Dalam studi kasus ini, kami akan merancang sebuah sistem website profil sekolah yang akan memungkinkan admin sekolah untuk mengelola dan menyediakan informasi yang relevan tentang sekolah. Software yang kami buat ini berbasis website dimana akan dirancang untuk memenuhi kebutuhan administrasi dan komunikasi sekolah dengan berbagai fitur yang disesuaikan dengan lingkungan pendidikan. Berikut akan kami jelaskan  sistem software kami,  admin fungsi utama yaitu :
+   - Input Data Sekolah
+   - Input Data Guru
+   - Input Sistem Akademik
    
    Berikut ini fungsi user dalam bentuk grafik :
-   - View Angka Kelahiran
-   - View Angka Kematian
-   - View Agama
-   - View Pekerjaan
-   - View Pendidikan
-   - View Laporan
+   - View Data Sekolah
+   - View Data Guru
+   - View Sistem Akademik
 
 2.1   Perspektif produk
 ----------
