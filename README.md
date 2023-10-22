@@ -7,14 +7,14 @@
 <p align="center"><b>Version 1.7 </b><br>
 <p align="center">22 Oktober 2023</b>
 <p align="center">
-<img src="https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image/POLINDRA.png" width="250" height="250"/ >
+<img src="https://github.com/dewikrnia/Kelompok4/blob/main/picture/LOGO%20RESMI%20PCR.svg" width="250" height="250"/ >
 </p>
 
-<p align="center"><b>Manajemen Administrasi Data Kependudukan Desa Lohbener <br>
+<p align="center"><b>Sistem Profile Smp Al Azhar Syifa Budi Pekanbaru II<br>
 </b>
-<p align="center">Kelompok 1 <br>
- Hilmy Lazuardi            (1603099)<br>
- Ismatul Maula    (1603100)<br>
+<p align="center">Kelompok 4 <br>
+ Dewi Kurnia Sari            (1603099)<br>
+ Dyva Herza    (1603100)<br>
  jakaria       (1603101)<br><br><br>
 
 <p align="center"><b>Jurusan Teknik Informatika</b><br>
