@@ -29,11 +29,11 @@
 ----------
 1.1 Tujuan
 ----------
-Dokumen Software Requirement Specification (SRS) merupakan dokumen spesifikasi perangkat lunak untuk membangun "Sistem Profile SMP Al Azhar Syifa Budi Pekanbaru II". Dokumen ini dibangun untuk memudahkan pemerintah desa Lohbener untuk menginput data-data kependudukan yang ada di desa Lohbener. Sehingga dokumen ini dapat dijadikan acuan teknis untuk membangun perangkat lunak "MANAJEMEN ADMINISTRASI DATA KEPENDUDUKAN DESA LOHBENER".
+Dokumen Software Requirement Specification (SRS) merupakan dokumen spesifikasi perangkat lunak untuk membangun "Website Profile SMP Al Azhar Syifa Budi Pekanbaru II". Dokumen ini dibangun untuk membantu admin sekolah untuk mengelola dan menampilkan profil sekolah yang dapat di akses secara online sehingga akan memudahkan user yang ingin mengetahui profil sekolah. Sehingga dokumen ini dapat dijadikan acuan teknis untuk membangun perangkat lunak "WEBSITE PROFILE SMP AL-AZHAR SYIFA BUDI PEKANBARU".
 
 1.2   Lingkup
 ----------
-Manajemen Administrasi Data Kependudukan Desa Lohbener merupakan aplikasi yang kami bangun untuk mempermudah kepala desa Lohbener dalam melihat perkembangan yang ada di desanya yaitu perkembangan pendidikan, angka kelahiran, angka kematian, agama, pekerjaan. dan memudahkan admin dalam menginput data-datanya.
+Sistem Profile SMP Al Azhar Syifa Budi Pekanbaru II merupakan website yang digunakan untuk membantu admin sekolah dalam mengelola informasi terkait dengan profil sekolah dan memfasilitasi komunikasi yang lebih baik dengan berbagai pemangku kepentingan, seperti siswa, orang tua, guru, dan staf sekolah.
 
 1.3    Akronim, singkatan, definisi
 ----------
