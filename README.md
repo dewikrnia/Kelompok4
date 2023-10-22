@@ -13,13 +13,13 @@
 <p align="center"><b>Sistem Profile Smp Al Azhar Syifa Budi Pekanbaru II<br>
 </b>
 <p align="center">Kelompok 4 <br>
- Dewi Kurnia Sari            (1603099)<br>
- Dyva Herza    (1603100)<br>
- jakaria       (1603101)<br><br><br>
+ Dewi Kurnia Sari            (2257301033)<br>
+ Dyva Herza Nabila  (2257301039)<br>
+ Farra Rumaisyah    (1603101)<br><br><br>
 
-<p align="center"><b>Jurusan Teknik Informatika</b><br>
-<p align="center"><b>Politeknik Negeri Indramayu</b>
-<p align="center"><b>2018</b>
+<p align="center"><b>Program Studi Sistem Informasi</b><br>
+<p align="center"><b>Politeknik Caltex Riau</b>
+<p align="center"><b>2023</b>
 </p>
 </body>
 </html>
