@@ -29,7 +29,7 @@
 ----------
 1.1 Tujuan
 ----------
-Dokumen Software Requirement Specification (SRS) merupakan dokumen spesifikasi perangkat lunak untuk membangun "Website Profile SMP Al Azhar Syifa Budi Pekanbaru II". Dokumen ini dibangun untuk membantu admin sekolah untuk mengelola dan menampilkan profil sekolah yang dapat di akses secara online sehingga akan memudahkan user yang ingin mengetahui profil sekolah. Sehingga dokumen ini dapat dijadikan acuan teknis untuk membangun perangkat lunak "WEBSITE PROFILE SMP AL-AZHAR SYIFA BUDI PEKANBARU".
+Dokumen Software Requirement Specification (SRS) merupakan dokumen spesifikasi perangkat lunak untuk membangun "Website Profil SMP Al Azhar Syifa Budi Pekanbaru II". Dokumen ini dibangun untuk membantu admin sekolah untuk mengelola dan menampilkan profil sekolah yang dapat di akses secara online sehingga akan memudahkan user yang ingin mengetahui profil sekolah. Sehingga dokumen ini dapat dijadikan acuan teknis untuk membangun perangkat lunak "WEBSITE PROFILE SMP AL-AZHAR SYIFA BUDI PEKANBARU".
 
 1.2   Lingkup
 ----------
@@ -97,9 +97,9 @@ Sistem aplikasi Manajemen Administrasi Data Kependudukan Desa Lohbener memiliki 
  
 **2.1.3 Antarmuka perangkat keras**
 
-![enter image description here](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/antarmuka%20perangkat%20keras%202.png)
+![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/Tampilan%20Antarmuka.png)
 
-Antarmuka perangkat keras yang digunakan untuk mengoperasikan Perangkat Lunak Manajemen Administrasi Data Kependudukan Desa Lohbener antara lain :
+Antarmuka perangkat keras yang digunakan untuk mengoperasikan Perangkat Lunak Website Profil SMP Al Azhar Syifa Budi Pekanbaru II antara lain :
 
 1. PC / Laptop
 Untuk menjalankan Aplikasi ini admin membutuhkan sebuah PC yang menggunakan OS Windows, Linux, atau MAC dan sudah terinstall browser .
@@ -137,32 +137,32 @@ Tidak ada
    
 2.2 Spesifikasi Kebutuhan fungsional
 ----------
-![](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/Use%20Case1.png)
+![](https://github.com/dewikrnia/Kelompok4/blob/main/picture/USECASE%20WEBSITE%20PROFIL%20SMP%20AL-%20AZHAR%20PEKANBARU%20.png)
    
-**2.2.1 Kepala Desa Login**
+**2.2.1 Admin Login**
 
 Use Case: Login
 
 Diagram : 
-![](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/use%20case%20login%20kepdes.png)
+![](https://github.com/dewikrnia/Kelompok4/blob/main/picture/login.png)
 
 Deskripsi Singkat
-Kepala desa melukan login terlebih dahulu sebelum masuk ke tampilan home, apabila tidak dapat mengakses atau gagal kepala desa dapat meminta kepada admin desa untuk di dibuatkan akunnya.
+Admin melukan login terlebih dahulu sebelum masuk ke tampilan home.
 Deskripsi langkah-langkah
-1. Kepala desa melakukan login dengan username dan password
+1. Admin melakukan login dengan username dan password
 2. Sistem melakukan validasi login
 3. Bila sukses sistem akan mengarahkan ke halaman beranda
 4. Bila gagal sistem akan menampilkan peringatan
 
-Xref: Bagian 3.2.1, Login Kepala Desa
+Xref: Bagian 3.2.1, Login Admin
    
 
-**2.2.2 Kepala desa melihat laporan kependudukan**
+**2.2.2 Admin Mengelola About Us**
 
-Use Case: View laporan kependudukan
+Use Case: Mengelola About Us
 
 Diagram: 
-![](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/use%20case%20kepdes%20generate%20laporan.png)
+![](https://github.com/dewikrnia/Kelompok4/blob/main/picture/MengelolaAboutUs.png)
 
 Deskripsi Singkat
 Kepala desa dapat melihat laporan kependudukan secara bulanan di desa Lohbener.
