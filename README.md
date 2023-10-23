@@ -160,7 +160,7 @@ Xref: Bagian 3.2.1, Login Admin
 Use Case: Mengelola Tentang
 
 Diagram: 
-![](https://github.com/dewikrnia/Kelompok4/blob/main/picture/MengelolaAboutUs.png)
+![](https://github.com/dewikrnia/Kelompok4/blob/main/picture/MengelolaTentang.png)
 
 Deskripsi Singkat
 Admin melakukan kelola Tentang yang berisi ucapan kepala sekolah, visi dan misi, data guru, prestasi, dan galeri.
