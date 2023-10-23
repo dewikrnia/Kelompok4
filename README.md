@@ -71,15 +71,13 @@ Dalam era globalisasi dengan perkembangan teknologi yang pesat, lembaga pendidik
 
 2.1   Perspektif produk
 ----------
-Manajemen Administrasi Data Kependudukan Desa Lohbener adalah sebuah sistem administrasi data yang di aplikasiskan pada website. Terdapat 3 jenis yaitu admin, sekdes dan kepala desa. Pengolahan data di kelola oleh admin dan sekdes pada website dan kepala desa hanya melihat grafik dan laporan pada website.
-
-Pada sistem manajemen administrasi data kependudukan ini akan menampilkan grafik kependudukan yang sudah di inputkan oleh admin
+Website Profil SMP Al Azhar Syifa Budi Pekanbaru II adalah sebuah informasi dari sekolah yang di aplikasiskan pada website. Pengolahan data di kelola oleh admin.
 
 **2.1.1 Antarmuka sistem**
 
 ![enter image description here](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/antarmuka%20sistem1.png)
 
-Sistem aplikasi Manajemen Administrasi Data Kependudukan Desa Lohbener memiliki 3 user yaitu sekdes, admin dan kepala desa. Kepala desa mempunyai fungsi yaitu melakukan view grafik dan bisa view laporan. Admin bertugas untuk mengelola data, supaya data bisa di akses oleh kepala desa.
+Website Profil SMP Al Azhar Syifa Budi Pekanbaru II memiliki 1 user yaitu admin. Admin bertugas untuk mengelola semua data yang ada di sistem ini, sehingga nantinya dapat dilihat oleh user.
 
 **2.1.2 Antarmuka pengguna**
 
@@ -110,7 +108,7 @@ Tidak ada
 
 **2.1.5 Antarmuka Komunikasi**
 
-Antarmuka komunikasi yang digunakan untuk mengoperasikan Perangkat Lunak Manajemen Administrasi Data Kependudukan Desa Lohbener antara lain :
+Antarmuka komunikasi yang digunakan untuk mengoperasikan Perangkat Lunak Website Profil SMP Al Azhar Syifa Budi Pekanbaru II antara lain :
 1. Kabel Lan UTP RJ45
 2. Modem
 3. wifi
@@ -157,106 +155,103 @@ Deskripsi langkah-langkah
 Xref: Bagian 3.2.1, Login Admin
    
 
-**2.2.2 Admin Mengelola About Us**
+**2.2.2 Admin Mengelola Tentang**
 
-Use Case: Mengelola About Us
+Use Case: Mengelola Tentang
 
 Diagram: 
 ![](https://github.com/dewikrnia/Kelompok4/blob/main/picture/MengelolaAboutUs.png)
 
 Deskripsi Singkat
-Kepala desa dapat melihat laporan kependudukan secara bulanan di desa Lohbener.
+Admin melakukan kelola Tentang yang berisi ucapan kepala sekolah, visi dan misi, data guru, prestasi, dan galeri.
 Deskripsi Langkah-langkah
-1. Kepala desa mengklik navbar laporan
-2. Kepala desa memilih combobox tersebut dan klik tombol cetak laporan
-3. Sistem akan menampilkan hasil laporan.
+1. Admin mengklik navbar Tentang.
+2. Admin memilih menu yang ada pada Tentang.
+3. Sistem akan menampilkan pilihan menu Tentang yang dipilih.
+4. Admin melakukan kelola data pada pilihan menu yang dipilih.
 
-Xref: Bagian 3.2.2, View laporan kependudukan
+Xref: Bagian 3.2.2, Admin Mengelola Tentang
 
-**2.2.3 Admin login**
+**2.2.3 Admin Mengelola Profil Sekolah**
 
-Use Case: Login
+Use Case: Mengelola Profil Sekolah
 
 Diagram :
 ![](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/use%20case%20login.png)
 
 Deskripsi Singkat
-Admin melakukan login dengan memasukan username password.
+Admin melakukan kelola Profil Sekolah yang berisi program sekolah, kalender akademik, dan fasilitas.
 Deskripsi Langkah-langkah
-1. Admin melakukan login dengan username dan password
-2. Sistem melakukan validasi login
-3. Bila sukses sistem akan mengarahkan ke halaman beranda
-4. Bila gagal sistem akan menampilkan peringatan
+1. Admin mengklik navbar Profil Sekolah.
+2. Admin memilih menu yang ada pada Profil Sekolah.
+3. Sistem akan menampilkan pilihan menu Profil Sekolah yang dipilih.
+4. Admin melakukan kelola data pada pilihan menu yang dipilih.
 
-Xref: Bagian 3.2.3, Login admin
+Xref: Bagian 3.2.3, Mengelola Profil Sekolah
       
-**2.2.4 Admin input data kependudukan**
+**2.2.4 Admin Mengelola Berita**
 
-Use Case: Input data kependudukan
+Use Case: Mengelola Berita
 
 Diagram:
 ![](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/use%20case%20admin%20kelola%20data2.png)
       
 Deskripsi Singkat
-Admin melakukan input data kependudukan dan sistem menyimpan data pada database.
+Admin melakukan kelola Berita.
 Deskripsi Langkah-langkah
-1. Admin melakukan input data kependudukan, pekerjaan, agama, pendidikan dan lain-lain.
-2. Admin mengklik tombol simpan.
-3. Sistem menyimpan data kependudukan.
-4. Bila data sudah ada sistem akan menampilkan peringatan
+1. Admin mengklik navbar Berita.
+2. Sistem akan menampilkan menu Berita yang dipilih.
+3. Admin melakukan kelola data pada menu Berita.
 
-Xref: Bagian 3.2.4, Input data kependudukan
+Xref: Bagian 3.2.4, Mengelola Berita
 
-**2.2.5 Admin melihat data kependudukan**
+**2.2.5 Admin Mengelola Pengumuman**
 
-Use Case: View data kependudukan
-
+Use Case: Mengelola Pengumuman
 Diagram:
 ![](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/use%20case%20lihat%20data%20kependudukan.png)
 
 Deskripsi Singkat
-Admin dapat melihat data kependudukan setelah di inputkan.
+Admin melakukan kelola Pengumuman.
 Deskripsi Langkah-langkah
-1. Sistem akan menampilkan data kependudukan desa Lohbener.
-2. Admin melihat data dan dapat mengedit atau menghapusnya.
-3. Sistem menampilkan edit data kependudukan
-4. Admin  mengedit data kependudukan yang baru atau yang sudah ada
-5. Sistem melakukan validasi jika data sudah ada maka muncul peringatan jika belum sistem akan menyimpan
+1. Admin mengklik navbar Pengumuman.
+2. Sistem akan menampilkan menu Pengumuman yang dipilih.
+3. Admin melakukan kelola data pada menu Pengumuman.
 
-Xref: Bagian 3.2.5, View data kependudukan
+Xref: Bagian 3.2.5, Mengelola Pengumuman
    
-**2.2.6 Generate Laporan**
+**2.2.6 Admin Mengelola Kontak**
 
-Use Case: Laporan
+Use Case: Mengelola Kontak
 
 Diagram:
 ![](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/use%20case%20admin%20generate%20laporan.png)
 
 Deskripsi Singkat
-Sistem akan mengirimkan data kependudukan dan yang lainnya ke fungsi laporan
+Admin melakukan kelola Kontak.
 Deskripsi Langkah-langkah
-1. Sistem menampilkan laporan kependudukan
-2. Admin memilih combobox tersebut dan klik tombol cetak
-3. Sistem akan menampilkan hasil laporan.
-4. Admin mencetak laporan 
+1. Admin mengklik navbar Kontak.
+2. Sistem akan menampilkan menu Kontak yang dipilih.
+3. Admin melakukan kelola data pada menu Kontak. 
 
-Xref: Bagian 3.2.6, Cetak Laporan
+Xref: Bagian 3.2.6, Mengelola Kontak
 
-**2.2.7 Admin mengelola user**
+**2.2.7 Admin Mengelola Kemuridan**
 
-Use Case: Mengelola user
+Use Case: Mengelola Kemuridan
 
 Diagram:
 ![enter image description here](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/use%20case%20kelola%20user.png)
 
 Deskripsi Singkat
-Sistem akan menampilkan form user dan admin dapat menambah user sesuai kebutuhan.
+Admin melakukan kelola Kemuridan yang berisi Organisasi dan Ekstrakulikuler.
 Deskripsi Langkah-langkah
-1. Admin mengklik manajemen user, lalu memilih nik dan hak akses user kemudian klik tambah
-2. Sistem akan menyimpan data user ke database dan menampilkan data user yang dipilih.
-3. Admin bisa menghapus hak akses user.
+1. Admin mengklik navbar Kemuridan.
+2. Admin memilih menu yang ada pada Kemuridan.
+3. Sistem akan menampilkan pilihan menu Kemuridan yang dipilih.
+4. Admin melakukan kelola data pada pilihan menu yang dipilih.
 
-Xref: Bagian 3.2.7, Mengelola user
+Xref: Bagian 3.2.7, Mengelola Kemuridan
 
 
 
