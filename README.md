@@ -75,7 +75,7 @@ Website Profil SMP Al Azhar Syifa Budi Pekanbaru II adalah sebuah informasi dari
 
 **2.1.1 Antarmuka sistem**
 
-![enter image description here](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/antarmuka%20sistem1.png)
+![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/Antarmuka%20Sistem.png)
 
 Website Profil SMP Al Azhar Syifa Budi Pekanbaru II memiliki 1 user yaitu admin. Admin bertugas untuk mengelola semua data yang ada di sistem ini, sehingga nantinya dapat dilihat oleh user.
 
@@ -208,6 +208,7 @@ Xref: Bagian 3.2.4, Mengelola Berita
 **2.2.5 Admin Mengelola Pengumuman**
 
 Use Case: Mengelola Pengumuman
+
 Diagram:
 ![](https://github.com/dewikrnia/Kelompok4/blob/main/picture/MengelolaPengumuman.png)
 
@@ -262,7 +263,7 @@ Xref: Bagian 3.2.7, Mengelola Kemuridan
    | No | Deskripsi |
    | ------ | ------ |
    | 1 | Semua interface dan fungsi menggunakan Bahasa Indonesia |
-   | 2 | Perangkat Lunak dapat dipakai di semua platofrm  OS ( Admin, sekdes dan kepala desa ) 
+   | 2 | Perangkat Lunak dapat dipakai di semua platofrm  OS ( Admin, user ) 
  
 2.4   Karakteristik pengguna
 ----------
@@ -286,100 +287,101 @@ BAB III Requirement specification
 ----------
 3.1 Persyaratan Antarmuka Eksternal
 ----------
-Salah satu cara mengakses aplikasi ini yaitu dengan hak akses yang di berikan oleh admmin, login melalui aplikasi ini dengan mencantumkan username kemudian sistem akan mencocokkan username sekdes dan kepala desa lohbener. Setelah login berhasil kepala desa dapat melihat grafik kependudukan dan laporan desa Lohbener di aplikasi tersebut.
+Tidak ada persyaratan khusus untuk mengakses website ini, sehingga siapapun dapat mengakses website ini tanpa perlu login terlwbih dahulu.
       
 3.2 Functional Requirement
 ----------
 Logika Struktur terdapat pada bagian 3.3.1
       
-**3.2.1 Kepala desa Login**
+**3.2.1 Admin Login**
 
 |  |  |
 |--|--|
 | Nama Fungsi | Login |
-| Xref | Bagian 2.2.1, Login Kepala desa |
-| Trigger | Membuka aplikasi Manajemen Administrasi Data Kependudukan Desa Lohbener |
+| Xref | Bagian 2.2.1, Login Admin |
+| Trigger | Membuka Website Profil SMP Al Azhar Syifa Budi Pekanbaru II |
 | Precondition | Halaman login |
-| Basic Path | 1. Kepala desa mengisi form login dengan username dan password <br> 2.Kepala desa mengklik tombol login <br> 3. Sistem melakukan validasi login <br> 4. Bila sukses sistem akan mengarahkan ke halaman beranda <br> 5. Bila gagal sistem akan menampilkan peringatan |
+| Basic Path | 1. Admin mengisi form login dengan username dan password <br> 2.Admin mengklik tombol login <br> 3. Sistem melakukan validasi login <br> 4. Bila sukses sistem akan mengarahkan ke halaman beranda <br> 5. Bila gagal sistem akan menampilkan peringatan |
 | Alternative | Tidak ada |
-| Post Condition | Kepala desa dapat login dan mengakses aplikasi Manajemen Administrasi Data Kependudukan Desa Lohbene |
+| Post Condition | Admin dapat login dan mengakses Website Profil SMP Al Azhar Syifa Budi Pekanbaru II |
 | Exception Push | Username dan password salah |
       
-**3.2.2 Kepala desa melihat laporan kependudukan**
+**3.2.2 Admin Mengelola Tentang**
 
 |  |  |
 |--|--|
-| Nama Fungsi | View laporan kependudukan |
-| Xref | Bagian 2.2.2, View laporan kependudukan |
-| Trigger | Membuka aplikasi Manajemen Administrasi Data Kependudukan Desa Lohbener |
-| Precondition | Membuka halaman grafik kependudukan |
-| Basic Path | 1. Kepala desa mengklik navbar laporan <br> 2. Sitem akan menampilkan combobox pilihan bulan dan tahun <br>3. Kepala desa memilih combobox tersebut dan klik tombol lihat <br> 4. Sistem akan menampilkan hasil laporan. |
+| Nama Fungsi | Mengelola Tentang |
+| Xref | Bagian 2.2.2, Mengelola Tentang |
+| Trigger | Membuka Website Profil SMP Al Azhar Syifa Budi Pekanbaru II |
+| Precondition | Membuka halaman utama |
+| Basic Path | 1. Admin mengklik navbar Tentang <br> 2. Sistem akan menampilkan combobox pilihan ucapan kepala sekolah, visi dan misi, data guru, prestasi, dan galeri <br>3. Admin memilih combobox tersebut dan klik tombol tambah, hapus, atau edit <br> 4. Sistem akan menampilkan hasil perubahan. |
 | Alternative | Tidak ada |
-| Post Condition | Kepala desa melihat laporan kependudukan |
-| Exception Push | Tidak ada koneksi |
+| Post Condition | Admin melihat hasil peubahan Tentang |
+| Exception Push | Tidak ada koneksi, data belum diinput |
    
-**3.2.3 Admin login**
+**3.2.3 Admin Mengelola Profil Sekolah**
 
 |  |  |
 |--|--|
-| Nama Fungsi | Login |
-| Xref | Bagian 2.2.3, Login admin |
-| Trigger | Membuka aplikasi Manajemen Administrasi Data Kependudukan Desa Lohbener |
-| Precondition | Halaman login admin |
-| Basic Path | 1. Admin melakukan login dengan username dan password <br> 2. Sistem melakukan validasi login <br> 3. Bila sukses sistem akan mengarahkan ke halaman beranda <br> 4. Bila gagal sistem akan menampilkan peringatan |
+| Nama Fungsi | Mengelola Profil Sekolah |
+| Xref | Bagian 2.2.2, Mengelola Profil Sekolah |
+| Trigger | Membuka Website Profil SMP Al Azhar Syifa Budi Pekanbaru II |
+| Precondition | Membuka halaman utama |
+| Basic Path | 1. Admin mengklik navbar Profil Sekolah <br> 2. Sistem akan menampilkan combobox pilihan program sekolah, kalender akademik, dan fasilitas <br>3. Admin memilih combobox tersebut dan klik tombol tambah, hapus, atau edit <br> 4. Sistem akan menampilkan hasil perubahan. |
 | Alternative | Tidak ada |
-| Post Condition | Admin berhasil login dan mengakses aplikasi Manajemen Administrasi Data Kependudukan Desa Lohbener |
-| Exception Push | Username dan password salah |
+| Post Condition | Admin melihat hasil peubahan Profil Sekolah |
+| Exception Push | Tidak ada koneksi, data belum diinput |
    
-**3.2.4 Admin input data kependudukan**
+**3.2.4 Admin Mengelola Berita**
 
 |  |  |
 |--|--|
-| Nama Fungsi | Input data kependudukan |
-| Xref | Bagian 2.2.4, Input data kependudukan |
-| Trigger | Membuka aplikasi Manajemen Administrasi Data Kependudukan Desa Lohbener |
-| Precondition | Halaman utama admin |
-| Basic Path | 1. Admin melakukan input data kependudukan, pekerjaan, agama, pendidikan dan lain-lain <br> 2. Admin mengklik tombol simpan <br> 3. Sistem menyimpan data kependudukan <br> 4. Bila data sudah ada sistem akan menampilkan peringatan |
+| Nama Fungsi | Mengelola Berita |
+| Xref | Bagian 2.2.2, Mengelola Berita |
+| Trigger | Membuka Website Profil SMP Al Azhar Syifa Budi Pekanbaru II |
+| Precondition | Membuka halaman utama |
+| Basic Path | 1. Admin mengklik navbar Berita <br> 2. Admin klik tombol tambah, hapus, atau edit <br> 3. Sistem akan menampilkan hasil perubahan. |
 | Alternative | Tidak ada |
-| Post Condition | Halaman form input data kependudukan |
-| Exception Push | Tidak ada koneksi |
+| Post Condition | Admin melihat hasil peubahan Berita |
+| Exception Push | Tidak ada koneksi, data belum diinput |
    
-**3.2.5 Admin melihat data kependudukan**
+**3.2.5 Admin Mengelola Pengumuman**
 
 |  |  |
 |--|--|
-| Nama Fungsi | View data kependudukan |
-| Xref | Bagian 2.2.5, View data kependudukan |
-| Trigger | Membuka aplikasi Manajemen Administrasi Data Kependudukan Desa Lohbener |
-| Precondition | Halaman form input data |
-| Basic Path | 1. Sistem akan menampilkan data kependudukan desa Lohbener. <br> 2. Admin melihat data dan dapat mengedit atau menghapusnya. <br> 3. Sistem menampilkan edit data kependudukan <br>4. Admin  mengedit data kependudukan yang baru atau yang sudah ada<br>5. Sistem melakukan validasi jika data sudah ada maka muncul peringatan jika belum sistem akan menyimpan|
+| Nama Fungsi | Mengelola Pengumuman |
+| Xref | Bagian 2.2.2, Mengelola Pengumuman |
+| Trigger | Membuka Website Profil SMP Al Azhar Syifa Budi Pekanbaru II |
+| Precondition | Membuka halaman utama |
+| Basic Path | 1. Admin mengklik navbar Pengumuman <br> 2. Admin klik tombol tambah, hapus, atau edit <br> 3. Sistem akan menampilkan hasil perubahan. |
 | Alternative | Tidak ada |
-| Post Condition | Halaman data kependudukan |
-| Exception Push | Tidak ada koneksi |
+| Post Condition | Admin melihat hasil peubahan Pengumuman |
+| Exception Push | Tidak ada koneksi, data belum diinput |
    
-**3.2.6 Cetak Laporan**
+**3.2.6 Admin Mengelola Kontak**
 
 |  |  |
 |--|--|
-| Nama Fungsi | Laporan |
-| Xref | Bagian 2.2.6, Cetak Laporan |
-| Trigger | Membuka aplikasi Manajemen Administrasi Data Kependudukan Desa Lohbener |
-| Precondition | halaman utama admin |
-| Basic Path | 1. Admin mengklik tombol laporan <br> 2. Sistem menampilkan laporan kependudukan <br> 3. Admin memilih combobox tersebut dan klik tombol lihat <br>4. Sistem akan menampilkan hasil laporan. <br>5. Admin mencetak laporan  |
+| Nama Fungsi | Mengelola Kontak |
+| Xref | Bagian 2.2.2, Mengelola Kontak |
+| Trigger | Membuka Website Profil SMP Al Azhar Syifa Budi Pekanbaru II |
+| Precondition | Membuka halaman utama |
+| Basic Path | 1. Admin mengklik navbar Kontak <br> 2. Admin klik tombol tambah, hapus, atau edit <br> 3. Sistem akan menampilkan hasil perubahan. |
 | Alternative | Tidak ada |
-| Post Condition | Halaman Laporan |
+| Post Condition | Admin melihat hasil peubahan Kontak |
 | Exception Push | Tidak ada koneksi, data belum diinput |
 
-**3.2.7  Admin mengelola user**
+**3.2.7  Admin Mengelola Kemuridan**
 
 |  |  |
 |--|--|
-| Nama Fungsi | Mengelola user |
-| Xref | Bagian 2.2.7, Mengelola user |
-| Trigger | Membuka aplikasi Manajemen Administrasi Data Kependudukan Desa Lohbener | 
-| Precondition | halaman utama admin |
-| Basic Path | 1. Sistem menampilkan form.<br>2. Admin mengisi form user dengan jabatan, tanggal mulai, tanggal berakhir, dll kemudian klik tombol simpan.<br>3. Sistem akan menyimpan data user ke database.  |
-| Post Condition | Halaman user |
+| Nama Fungsi | Mengelola Kemuridan |
+| Xref | Bagian 2.2.2, Mengelola Kemuridan |
+| Trigger | Membuka Website Profil SMP Al Azhar Syifa Budi Pekanbaru II |
+| Precondition | Membuka halaman utama |
+| Basic Path | 1. Admin mengklik navbar Kemuridan <br> 2. Sistem akan menampilkan combobox pilihan organisasi dan ekstrakulikuler <br>3. Admin memilih combobox tersebut dan klik tombol tambah, hapus, atau edit <br> 4. Sistem akan menampilkan hasil perubahan. |
+| Alternative | Tidak ada |
+| Post Condition | Admin melihat hasil peubahan Kemuridan |
 | Exception Push | Tidak ada koneksi, data belum diinput |
    
 3.3 Struktur Detail Kebutuhan Non-Fungsional
