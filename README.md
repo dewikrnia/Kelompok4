@@ -142,7 +142,7 @@ Tidak ada
 Use Case: Login
 
 Diagram : 
-![](https://github.com/dewikrnia/Kelompok4/blob/main/picture/login.png)
+![](https://github.com/dewikrnia/Kelompok4/blob/main/picture/Login.png)
 
 Deskripsi Singkat
 Admin melukan login terlebih dahulu sebelum masuk ke tampilan home.
@@ -177,7 +177,7 @@ Xref: Bagian 3.2.2, Admin Mengelola Tentang
 Use Case: Mengelola Profil Sekolah
 
 Diagram :
-![](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/use%20case%20login.png)
+![](https://github.com/dewikrnia/Kelompok4/blob/main/picture/MengelolaProfilSekolah.png)
 
 Deskripsi Singkat
 Admin melakukan kelola Profil Sekolah yang berisi program sekolah, kalender akademik, dan fasilitas.
@@ -194,7 +194,7 @@ Xref: Bagian 3.2.3, Mengelola Profil Sekolah
 Use Case: Mengelola Berita
 
 Diagram:
-![](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/use%20case%20admin%20kelola%20data2.png)
+![](https://github.com/dewikrnia/Kelompok4/blob/main/picture/MengelolaBerita.png)
       
 Deskripsi Singkat
 Admin melakukan kelola Berita.
@@ -209,7 +209,7 @@ Xref: Bagian 3.2.4, Mengelola Berita
 
 Use Case: Mengelola Pengumuman
 Diagram:
-![](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/use%20case%20lihat%20data%20kependudukan.png)
+![](https://github.com/dewikrnia/Kelompok4/blob/main/picture/MengelolaPengumuman.png)
 
 Deskripsi Singkat
 Admin melakukan kelola Pengumuman.
@@ -225,7 +225,7 @@ Xref: Bagian 3.2.5, Mengelola Pengumuman
 Use Case: Mengelola Kontak
 
 Diagram:
-![](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/use%20case%20admin%20generate%20laporan.png)
+![](https://github.com/dewikrnia/Kelompok4/blob/main/picture/MengelolaKontak.png)
 
 Deskripsi Singkat
 Admin melakukan kelola Kontak.
@@ -241,7 +241,7 @@ Xref: Bagian 3.2.6, Mengelola Kontak
 Use Case: Mengelola Kemuridan
 
 Diagram:
-![enter image description here](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/use%20case%20kelola%20user.png)
+![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/MengelolaKegiatanKemuridan.png)
 
 Deskripsi Singkat
 Admin melakukan kelola Kemuridan yang berisi Organisasi dan Ekstrakulikuler.
