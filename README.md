@@ -95,7 +95,7 @@ Website Profil SMP Al Azhar Syifa Budi Pekanbaru II memiliki 1 user yaitu admin.
  
 **2.1.3 Antarmuka perangkat keras**
 
-![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/Tampilan%20Antarmuka.png)
+![enter image description here]([https://github.com/dewikrnia/Kelompok4/blob/main/picture/TampilanAntarMuka.png])
 
 Antarmuka perangkat keras yang digunakan untuk mengoperasikan Perangkat Lunak Website Profil SMP Al Azhar Syifa Budi Pekanbaru II antara lain :
 
