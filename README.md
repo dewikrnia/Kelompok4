@@ -566,7 +566,7 @@ Struktur data logika pada sistem Aplikasi presensi menggunakan kehadiran terdapa
 
 | Data Item | Type | Deskripsi |
 | ------ | ------ | ------ |
-| id_user| int | Nomer auto increment id_admin |
+| id_user| varchar | Nomer auto increment id_admin |
 | username | varchar | berisikan username untuk akses login admin |
 | password | varchar | berisikan password untuk login admin |
 | email | varchar | berisikan email dari admin |
@@ -576,7 +576,7 @@ Struktur data logika pada sistem Aplikasi presensi menggunakan kehadiran terdapa
 | Data Item | Type | Deskripsi |
 | ------ | ------ | ------ |
 | id_guru | varchar | Nomor auto increment id_prestasi|
-| nip | varchar | NIP guru|
+| nip | int | NIP guru|
 | nama_guru | varchar | Nama guru |
 | jabatan | varchar | Jabatan guru |
 | mapel | varchar | Mata pelajaran yang di ajar |
@@ -588,8 +588,8 @@ Struktur data logika pada sistem Aplikasi presensi menggunakan kehadiran terdapa
 | ------ | ------ | ------ |
 | id_prestasi | varchar | Nomor auto increment id_prestasi|
 | nama_prestasi | varchar | Nama prestasi |
-| tanggal_prestasi | varchar | Tanggal prestasi |
-| keterangan_prestasi | varchar | Keterangan prestasi |
+| tanggal_prestasi | date | Tanggal prestasi |
+| keterangan_prestasi | text | Keterangan prestasi |
 | foto_prestasi | varchar | Foto prestasi |
 
 **Tabel Pengumuman**
@@ -598,8 +598,8 @@ Struktur data logika pada sistem Aplikasi presensi menggunakan kehadiran terdapa
 | ------ | ------ | ------ |
 | id_pengumuman | varchar | Nomor auto increment id_pengumuman|
 | nama_pengumuman | varchar | Nama pengumuman |
-| tanggal_pengumuman | varchar | Tanggal pengumuman |
-| keterangan_pengumuman| varchar | Keterangan pengumuman |
+| tanggal_pengumuman | date | Tanggal pengumuman |
+| keterangan_pengumuman| text | Keterangan pengumuman |
 | foto_pengumuman | varchar | Foto pengumuman |
 
 **Tabel Galeri**
@@ -608,8 +608,8 @@ Struktur data logika pada sistem Aplikasi presensi menggunakan kehadiran terdapa
 | ------ | ------ | ------ |
 | id_galeri | varchar | Nomor auto increment id_galeri|
 | nama_galeri | varchar | Nama galeri |
-| tanggal_galeri | varchar | Tanggal galeri |
-| keterangan_galeri| varchar | Keterangan galeri |
+| tanggal_galeri | date | Tanggal galeri |
+| keterangan_galeri| text | Keterangan galeri |
 | foto_galeri | varchar | Foto galeri |
 | video_galeri | varchar | Video galeri |
 
@@ -619,7 +619,7 @@ Struktur data logika pada sistem Aplikasi presensi menggunakan kehadiran terdapa
 | ------ | ------ | ------ |
 | id_fasilitas | varchar | Nomor auto increment id_fasilitas|
 | nama_fasilitas| varchar | Nama fasilitas |
-| keterangan_fasilitas| varchar | Keterangan fasilitas |
+| keterangan_fasilitas| text | Keterangan fasilitas |
 | foto_fasilitas | varchar | Foto fasilitas |
 
 **Tabel Ekstrakulikuler**
@@ -628,7 +628,7 @@ Struktur data logika pada sistem Aplikasi presensi menggunakan kehadiran terdapa
 | ------ | ------ | ------ |
 | id_ekstrakulikuler | varchar | Nomor auto increment id_ekstrakulikuler|
 | nama_ekstrakulikuler| varchar | Nama ekstrakulikuler |
-| keterangan_ekstrakulikuler| varchar | Keterangan ekstrakulikuler |
+| keterangan_ekstrakulikuler| text | Keterangan ekstrakulikuler |
 | foto_ekstrakulikuler | varchar | Foto ekstrakulikuler |
 
 **Tabel Berita**
@@ -637,8 +637,8 @@ Struktur data logika pada sistem Aplikasi presensi menggunakan kehadiran terdapa
 | ------ | ------ | ------ |
 | id_berita| varchar | Nomor auto increment id_berita|
 | nama_berita | varchar | Nama berita |
-| tanggal_berita | varchar | Tanggal berita |
-| keterangan_berita| varchar | Keterangan berita |
+| tanggal_berita | date | Tanggal berita |
+| keterangan_berita| text | Keterangan berita |
 | foto_berita | varchar | Foto berita |
 
 **Tabel Organisasi**
@@ -647,5 +647,5 @@ Struktur data logika pada sistem Aplikasi presensi menggunakan kehadiran terdapa
 | ------ | ------ | ------ |
 | id_organisasi | varchar | Nomor auto increment id_organisasi|
 | nama_organisasi | varchar | Nama organisasi |
-| keterangan_organisasi| varchar | Keterangan organisasi |
+| keterangan_organisasi| text | Keterangan organisasi |
 | foto_organisasi | varchar | Foto organisasi |
