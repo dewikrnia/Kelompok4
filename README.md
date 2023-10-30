@@ -135,7 +135,7 @@ Tidak ada
    
 2.2 Spesifikasi Kebutuhan fungsional
 ----------
-![](https://github.com/dewikrnia/Kelompok4/blob/main/picture/USECASE%20WEBSITE%20PROFIL%20SMP%20AL-%20AZHAR%20PEKANBARU%20.png)
+![](https://github.com/dewikrnia/Kelompok4/blob/main/picture/Usecasebaru.png)
    
 **2.2.1 Admin Login**
 
@@ -155,12 +155,12 @@ Deskripsi langkah-langkah
 Xref: Bagian 3.2.1, Login Admin
    
 
-**2.2.2 Admin Mengelola Tentang**
+**2.2.2 Admin Mengelola Tentang Kami**
 
-Use Case: Mengelola Tentang
+Use Case: Mengelola Tentang Kami
 
 Diagram: 
-![](https://github.com/dewikrnia/Kelompok4/blob/main/picture/MengelolaTentang.png)
+![](https://github.com/dewikrnia/Kelompok4/blob/main/picture/MengelolaTentangKami.png)
 
 Deskripsi Singkat
 Admin melakukan kelola Tentang yang berisi ucapan kepala sekolah, visi dan misi, data guru, prestasi, dan galeri.
@@ -170,7 +170,7 @@ Deskripsi Langkah-langkah
 3. Sistem akan menampilkan pilihan menu Tentang yang dipilih.
 4. Admin melakukan kelola data pada pilihan menu yang dipilih.
 
-Xref: Bagian 3.2.2, Admin Mengelola Tentang
+Xref: Bagian 3.2.2, Admin Mengelola Tentang Kami
 
 **2.2.3 Admin Mengelola Profil Sekolah**
 
@@ -254,6 +254,99 @@ Deskripsi Langkah-langkah
 
 Xref: Bagian 3.2.7, Mengelola Kemuridan
 
+**2.2.8 User Melihat Tentang Kami**
+
+Use Case: Melihat Tentang Kami
+
+Diagram:
+![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/MelihatTentangKami.png)
+
+Deskripsi Singkat
+User melihat Tentang Kami yang berisi ucapan kepala sekolah, visi dan misi, data guru, prestasi, dan galeri.
+Deskripsi Langkah-langkah
+1. User mengklik navbar Tentang Kami.
+2. User memilih menu yang ada pada Tentang Kami.
+3. Sistem akan menampilkan pilihan menu Tentang Kami yang dipilih.
+
+Xref: Bagian 3.2.8, Melihat Tentang Kami
+
+**2.2.9 User Melihat Profil Sekolah**
+
+Use Case: Melihat Profil Sekolah
+
+Diagram:
+![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/MelihatProfilSekolah.png)
+
+Deskripsi Singkat
+User melihat Profil Sekolah yang berisi program sekolah, kalender akademik, dan fasilitas.
+Deskripsi Langkah-langkah
+1. User mengklik navbar Profil Sekolah.
+2. User memilih menu yang ada pada Profil Sekolah.
+3. Sistem akan menampilkan pilihan menu Profil Sekolah yang dipilih.
+
+Xref: Bagian 3.2.9, Melihat Profil Sekolah
+
+**2.2.10 User Melihat Berita**
+
+Use Case: Melihat Berita
+
+Diagram:
+![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/MelihatBerita.png)
+
+Deskripsi Singkat
+User melihat Berita.
+Deskripsi Langkah-langkah
+1. User mengklik navbar Berita.
+2. Sistem akan menampilkan menu Berita yang dipilih.
+
+Xref: Bagian 3.2.10, Melihat Pengumuman
+
+**2.2.11 User Melihat Pengumuman**
+
+Use Case: Melihat Pengumuman
+
+Diagram:
+![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/MelihatPengumuman.png)
+
+Deskripsi Singkat
+User melihat Pengumuman.
+Deskripsi Langkah-langkah
+1. User mengklik navbar Pengumuman.
+2. Sistem akan menampilkan menu Pengumuman yang dipilih.
+
+Xref: Bagian 3.2.11, Melihat Pengumuman
+
+**2.2.12 User Melihat Kontak**
+
+Use Case: Melihat Kontak
+
+Diagram:
+![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/MelihatKontak.png)
+
+Deskripsi Singkat
+User melihat Kontak.
+Deskripsi Langkah-langkah
+1. User mengklik navbar Kontak.
+2. Sistem akan menampilkan menu Kontak yang dipilih. 
+
+Xref: Bagian 3.2.13, Melihat Kontak
+
+**2.2.13 User Melihat Kemuridan**
+
+Use Case: Melihat Kemuridan
+
+Diagram:
+![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/MelihatKegiatanKemuridan.png)
+
+Deskripsi Singkat
+User melihat Kemuridan yang berisi Organisasi dan Ekstrakulikuler.
+Deskripsi Langkah-langkah
+1. User mengklik navbar Kemuridan.
+2. User memilih menu yang ada pada Kemuridan.
+3. Sistem akan menampilkan pilihan menu Kemuridan yang dipilih. 
+
+Xref: Bagian 3.2.13, Melihat Kegiatan Kemuridan
+
 
 
 2.3   Spesifikasi Kebutuhan non-fungsional
@@ -306,17 +399,17 @@ Logika Struktur terdapat pada bagian 3.3.1
 | Post Condition | Admin dapat login dan mengakses Website Profil SMP Al Azhar Syifa Budi Pekanbaru II |
 | Exception Push | Username dan password salah |
       
-**3.2.2 Admin Mengelola Tentang**
+**3.2.2 Admin Mengelola Tentang Kami**
 
 |  |  |
 |--|--|
-| Nama Fungsi | Mengelola Tentang |
-| Xref | Bagian 2.2.2, Mengelola Tentang |
+| Nama Fungsi | Mengelola Tentang Kami |
+| Xref | Bagian 2.2.2, Mengelola Tentang Kami |
 | Trigger | Membuka Website Profil SMP Al Azhar Syifa Budi Pekanbaru II |
 | Precondition | Membuka halaman utama |
 | Basic Path | 1. Admin mengklik navbar Tentang <br> 2. Sistem akan menampilkan combobox pilihan ucapan kepala sekolah, visi dan misi, data guru, prestasi, dan galeri <br>3. Admin memilih combobox tersebut dan klik tombol tambah, hapus, atau edit <br> 4. Sistem akan menampilkan hasil perubahan. |
 | Alternative | Tidak ada |
-| Post Condition | Admin melihat hasil peubahan Tentang |
+| Post Condition | Admin melihat hasil perubahan Tentang |
 | Exception Push | Tidak ada koneksi, data belum diinput |
    
 **3.2.3 Admin Mengelola Profil Sekolah**
@@ -324,12 +417,12 @@ Logika Struktur terdapat pada bagian 3.3.1
 |  |  |
 |--|--|
 | Nama Fungsi | Mengelola Profil Sekolah |
-| Xref | Bagian 2.2.2, Mengelola Profil Sekolah |
+| Xref | Bagian 2.2.3, Mengelola Profil Sekolah |
 | Trigger | Membuka Website Profil SMP Al Azhar Syifa Budi Pekanbaru II |
 | Precondition | Membuka halaman utama |
 | Basic Path | 1. Admin mengklik navbar Profil Sekolah <br> 2. Sistem akan menampilkan combobox pilihan program sekolah, kalender akademik, dan fasilitas <br>3. Admin memilih combobox tersebut dan klik tombol tambah, hapus, atau edit <br> 4. Sistem akan menampilkan hasil perubahan. |
 | Alternative | Tidak ada |
-| Post Condition | Admin melihat hasil peubahan Profil Sekolah |
+| Post Condition | Admin melihat hasil perubahan Profil Sekolah |
 | Exception Push | Tidak ada koneksi, data belum diinput |
    
 **3.2.4 Admin Mengelola Berita**
@@ -337,12 +430,12 @@ Logika Struktur terdapat pada bagian 3.3.1
 |  |  |
 |--|--|
 | Nama Fungsi | Mengelola Berita |
-| Xref | Bagian 2.2.2, Mengelola Berita |
+| Xref | Bagian 2.2.4, Mengelola Berita |
 | Trigger | Membuka Website Profil SMP Al Azhar Syifa Budi Pekanbaru II |
 | Precondition | Membuka halaman utama |
 | Basic Path | 1. Admin mengklik navbar Berita <br> 2. Admin klik tombol tambah, hapus, atau edit <br> 3. Sistem akan menampilkan hasil perubahan. |
 | Alternative | Tidak ada |
-| Post Condition | Admin melihat hasil peubahan Berita |
+| Post Condition | Admin melihat hasil perubahan Berita |
 | Exception Push | Tidak ada koneksi, data belum diinput |
    
 **3.2.5 Admin Mengelola Pengumuman**
@@ -350,12 +443,12 @@ Logika Struktur terdapat pada bagian 3.3.1
 |  |  |
 |--|--|
 | Nama Fungsi | Mengelola Pengumuman |
-| Xref | Bagian 2.2.2, Mengelola Pengumuman |
+| Xref | Bagian 2.2.5, Mengelola Pengumuman |
 | Trigger | Membuka Website Profil SMP Al Azhar Syifa Budi Pekanbaru II |
 | Precondition | Membuka halaman utama |
 | Basic Path | 1. Admin mengklik navbar Pengumuman <br> 2. Admin klik tombol tambah, hapus, atau edit <br> 3. Sistem akan menampilkan hasil perubahan. |
 | Alternative | Tidak ada |
-| Post Condition | Admin melihat hasil peubahan Pengumuman |
+| Post Condition | Admin melihat hasil perubahan Pengumuman |
 | Exception Push | Tidak ada koneksi, data belum diinput |
    
 **3.2.6 Admin Mengelola Kontak**
@@ -363,12 +456,12 @@ Logika Struktur terdapat pada bagian 3.3.1
 |  |  |
 |--|--|
 | Nama Fungsi | Mengelola Kontak |
-| Xref | Bagian 2.2.2, Mengelola Kontak |
+| Xref | Bagian 2.2.6, Mengelola Kontak |
 | Trigger | Membuka Website Profil SMP Al Azhar Syifa Budi Pekanbaru II |
 | Precondition | Membuka halaman utama |
 | Basic Path | 1. Admin mengklik navbar Kontak <br> 2. Admin klik tombol tambah, hapus, atau edit <br> 3. Sistem akan menampilkan hasil perubahan. |
 | Alternative | Tidak ada |
-| Post Condition | Admin melihat hasil peubahan Kontak |
+| Post Condition | Admin melihat hasil perubahan Kontak |
 | Exception Push | Tidak ada koneksi, data belum diinput |
 
 **3.2.7  Admin Mengelola Kemuridan**
@@ -376,13 +469,91 @@ Logika Struktur terdapat pada bagian 3.3.1
 |  |  |
 |--|--|
 | Nama Fungsi | Mengelola Kemuridan |
-| Xref | Bagian 2.2.2, Mengelola Kemuridan |
+| Xref | Bagian 2.2.7, Mengelola Kemuridan |
 | Trigger | Membuka Website Profil SMP Al Azhar Syifa Budi Pekanbaru II |
 | Precondition | Membuka halaman utama |
 | Basic Path | 1. Admin mengklik navbar Kemuridan <br> 2. Sistem akan menampilkan combobox pilihan organisasi dan ekstrakulikuler <br>3. Admin memilih combobox tersebut dan klik tombol tambah, hapus, atau edit <br> 4. Sistem akan menampilkan hasil perubahan. |
 | Alternative | Tidak ada |
-| Post Condition | Admin melihat hasil peubahan Kemuridan |
+| Post Condition | Admin melihat hasil perubahan Kemuridan |
 | Exception Push | Tidak ada koneksi, data belum diinput |
+
+**3.2.8 User Melihat Tentang Kami**
+
+|  |  |
+|--|--|
+| Nama Fungsi | Melihat Tentang Kami |
+| Xref | Bagian 2.2.8, Melihat Tentang Kami |
+| Trigger | Membuka Website Profil SMP Al Azhar Syifa Budi Pekanbaru II |
+| Precondition | Membuka halaman utama |
+| Basic Path | 1. User mengklik navbar Tentang <br> 2. Sistem akan menampilkan combobox pilihan ucapan kepala sekolah, visi dan misi, data guru, prestasi, dan galeri <br>3. Sistem akan menampilkan hasil combobox yang dipilih. |
+| Alternative | Tidak ada |
+| Post Condition | User melihat hasil combobox yang yang dipilih |
+| Exception Push | Tidak ada koneksi |
+   
+**3.2.9 User Melihat Profil Sekolah**
+
+|  |  |
+|--|--|
+| Nama Fungsi | Melihat Profil Sekolah |
+| Xref | Bagian 2.2.9, Melihat Profil Sekolah |
+| Trigger | Membuka Website Profil SMP Al Azhar Syifa Budi Pekanbaru II |
+| Precondition | Membuka halaman utama |
+| Basic Path | 1. User mengklik navbar Profil Sekolah <br> 2. Sistem akan menampilkan combobox pilihan program sekolah, kalender akademik, dan fasilitas <br>3.  Sistem akan menampilkan hasil combobox yang dipilih. |
+| Alternative | Tidak ada |
+| Post Condition | User melihat hasil combobox yang dipilihh |
+| Exception Push | Tidak ada koneksi |
+   
+**3.2.10 User Melihat Berita**
+
+|  |  |
+|--|--|
+| Nama Fungsi | Melihat Berita |
+| Xref | Bagian 2.2.10, Melihat Berita |
+| Trigger | Membuka Website Profil SMP Al Azhar Syifa Budi Pekanbaru II |
+| Precondition | Membuka halaman utama |
+| Basic Path | 1. User mengklik navbar Berita <br> 2. Sistem akan menampilkan menu Berita. |
+| Alternative | Tidak ada |
+| Post Condition | User melihat menu Berita |
+| Exception Push | Tidak ada koneksi |
+   
+**3.2.11 User Melihat Pengumuman**
+
+|  |  |
+|--|--|
+| Nama Fungsi | Melihat Pengumuman |
+| Xref | Bagian 2.2.11, Melihat Pengumuman |
+| Trigger | Membuka Website Profil SMP Al Azhar Syifa Budi Pekanbaru II |
+| Precondition | Membuka halaman utama |
+| Basic Path | 1. User mengklik navbar Pengumuman <br> 2. Sistem akan menampilkan menu Pengumuman. |
+| Alternative | Tidak ada |
+| Post Condition | User meelihat menu Pengumuman |
+| Exception Push | Tidak ada koneksi |
+   
+**3.2.12 User Melihat Kontak**
+
+|  |  |
+|--|--|
+| Nama Fungsi | Melihat Kontak |
+| Xref | Bagian 2.2.12, Melihat Kontak |
+| Trigger | Membuka Website Profil SMP Al Azhar Syifa Budi Pekanbaru II |
+| Precondition | Membuka halaman utama |
+| Basic Path | 1. User mengklik navbar Kontak <br> 2. Sistem akan melihat Kontak. |
+| Alternative | Tidak ada |
+| Post Condition | User melihat Kontak |
+| Exception Push | Tidak ada koneksi |
+
+**3.2.13  User Melihat Kemuridan**
+
+|  |  |
+|--|--|
+| Nama Fungsi | Melihat Kemuridan |
+| Xref | Bagian 2.2.13, Melihat Kemuridan |
+| Trigger | Membuka Website Profil SMP Al Azhar Syifa Budi Pekanbaru II |
+| Precondition | Membuka halaman utama |
+| Basic Path | 1. User mengklik navbar Kemuridan <br> 2. Sistem akan menampilkan combobox pilihan organisasi dan ekstrakulikuler <br>3. Sistem akan menampilkan hasil combobox yang dipilih. |
+| Alternative | Tidak ada |
+| Post Condition | User melihat hasil combobox yang dipilih |
+| Exception Push | Tidak ada koneksi |
    
 3.3 Struktur Detail Kebutuhan Non-Fungsional
 ----------
