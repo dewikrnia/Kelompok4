@@ -85,13 +85,19 @@ Website Profil SMP Al Azhar Syifa Budi Pekanbaru II memiliki 1 user yaitu admin.
 
 |  |  |
 |--|--|
-| ![enter image description here](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/Halaman%20Login.png) Pada halaman login admin diminta untuk mengisi username dan password.| ![enter image description here](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/Halaman%20Dashboard.png) Pada Dashboard admin terdapat panel-panel seperti penduduk, pendidikan, agama, pekerjaan, laporan dan ucapan selamat datang.|
-| ![enter image description here](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/Dropdone%20Kependudukan.png) Pada halaman dashboard ada navigation bar kependudukan yang berisi dropdown angka kelahiran dan angka kematian| ![enter image description here](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/Input%20Agama.png) Pada Halaman agama dapat menginputkan data agama penduduk|
-| ![enter image description here](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/Input%20Pekerjaan.png) Pada Halaman pekerjaan dapat menginputkan data pekerjaan penduduk| ![enter image description here](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/Warga.png) Pada Halaman warga dapat menginputkan data warga|
-| ![enter image description here](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/Input%20Pendidikan.png) Pada Halaman pendidikan dapat menginputkan data pendidikan penduduk| ![enter image description here](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/Input%20Angka%20Kelahiran.png) Pada Halaman kelahiran dapat menginputkan data kelahiran penduduk|
-| ![enter image description here](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/Input%20Angka%20Kematian.png) Pada Halaman kematian dapat menginputkan data kematian penduduk| ![enter image description here](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/Grafik%20Angka%20kelahiran.png) Pada Halaman grafik kelahiran dapat melihat data angka kelahiran|
-| ![enter image description here](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/Grafik%20Angka%20kematian.png) Pada Halaman grafik kematian dapat melihat data angka kematian| ![enter image description here](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/Laporan.png) Pada Halaman laporan dapat melihat dan mendownload laporan penduduk|
-| ![enter image description here](https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image%20SRS/Halaman%20Lupa%20Password.png) Pada halaman lupa password dapat mengganti password terlebih dahulu memasukkan username dan password sebelumnya| |
+| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA-LOGIN%20ADMIN.png) Pada halaman login admin diminta untuk mengisi username dan password.| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA-DASHBOARD%20ADMIN.png) Pada Dashboard admin terdapat panel-panel seperti program sekolah, data guru, prestasi, organisasi, ekstrakulikuler, kalender akademik, berita, user manajemen, pengumuman, dan galeri.|
+| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA-DATA%20GURU%20ADMIN.png) Pada halaman data guru dapat digunakan admin untuk mengelola data guru| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA-PRESTASI%20ADMIN.png) Pada halaman prestasi dapat digunakan admin unruk mengelola data prestasi|
+| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA%20-PROGRAM%20SEKOLAH%20ADMIN.png) Pada halaman program sekolah dapat digunakan admin untuk mengelola data program sekolah| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA_KALANDER%20AKADEMIK.png) Pada halaman kalender akademik digunakan untuk mengupdate kalender akademik|
+| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA-%20BERITA%20ADMIN%20.png) Pada berita dapat digunakan admin untuk mengelola data berita| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA-ORGANISASI%20ADMIN.png) Pada organisasi dapat digunakan admin untuk mengelola data organisasi|
+| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA-EKSTRAKULIKULER%20ADMIN.png) Pada ekstrakulikuler dapat digunakan admin untuk mengelola data ekstrakulikuler| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA-%20PENGUMUMAN%20ADMIN%20.png) Pada halaman pengumuman dapat digunakan admin untuk mengelola data pengumuman|
+| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA-%20GALERI%20ADMIN%20.png) Pada halamana geleri dapat digunakan admin untuk mengelola data galeri| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA-%20USER%20MANAJEMEN%20ADMIN%20.png) Pada halaman user manajemen dapat digunakan admim untuk mengelola data user|
+| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA_DASHBOARD.png) Pada halaman dashboard dapat digunakan untuk melihat halaman utama yang berisi informasi informasi utama| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA_BERITA.png) Pada halaman berita dapat digunakan untuk melihat berita|
+| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA_DATAGURU.png) Pada halaman data guru dapat digunakan untuk melihat data guru| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA_PRESTASI.png) Pada halaman prestasi dapat digunakan unutk prestasi|
+| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA_PROGRAMSEKOLAH.png) Pada halaman program sekolah dapat digunakan untuk melihat program sekolah| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA_KALANDER%20AKADEMIK.png) Pada halaman kalender akademik digunakan untuk melihat kalender akademik|
+| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA-%20BERITA%20ADMIN%20.png) Pada berita dapat digunakan admin untuk mengelola data berita| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA_ORGANISASI.png) Pada organisasi dapat digunakan untuk melihat organisasi|
+| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA_EKSTRAKULIKULER.png) Pada ekstrakulikuler dapat digunakan untuk melihat ekstrakulikuler| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA_PENGUMUMAN.png) Pada halaman pengumuman dapat digunakan untuk melihat pengumuman|
+| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA_UCAPAN%20KEPALA%20SEKOLAH.png) Pada halaman ucapan kepala sekolah dapat digunakan untuk melihat ucapan kepala sekolah| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA_VISI%20MISI.png) Pada halaman visi dan misi dapat digunakan untuk melihat visi dan misi| 
+| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/image.png) Pada halaman galeri dapat digunakan untuk melihat galeri sekolah||
  
 **2.1.3 Antarmuka perangkat keras**
 
@@ -649,3 +655,26 @@ Struktur data logika pada sistem Aplikasi presensi menggunakan kehadiran terdapa
 | nama_organisasi | varchar | Nama organisasi |
 | keterangan_organisasi| text | Keterangan organisasi |
 | foto_organisasi | varchar | Foto organisasi |
+
+**Tabel Program Sekolah**
+
+| Data Item | Type | Deskripsi |
+| ------ | ------ | ------ |
+| id_program| varchar | Nomor auto increment id_program|
+| nama_program | varchar | Nama program |
+| tanggal_program | date | Tanggal program |
+| keterangan_program| text | Keterangan program |
+| foto_program | varchar | Foto program |
+
+3.4 Validasi Data Wawancara
+----------
+Validasi data wawancara dengan pihak SMP Al Azhar Syifa Budi Pekanbaru II.
+![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/SURAT%20VAIDASI%20SEKOLAH_KEL%206_FRAMEWORK_page-0001.jpg)
+![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/SURAT%20VAIDASI%20SEKOLAH_KEL%206_FRAMEWORK_page-0002.jpg)
+
+Job Desc
+| Nama | Tugas | 
+| ------ | ------ | 
+| Dewi Kurnia Sari | SRS, Desain Website |
+| Dyva Herza Nabila | SRS, Desain Website | 
+| Farra Rumaisyah | SRS, Desain Website | 
