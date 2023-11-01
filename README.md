@@ -4,7 +4,7 @@
 <body>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image/POLINDRA.png](https://github.com/dewikrnia/Kelompok4/blob/main/picture/cover.png)" >
+<img src="https://github.com/dewikrnia/Kelompok4/blob/main/picture/cover.png" >
 </p>
 
 </body>
