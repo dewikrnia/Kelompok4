@@ -1,8 +1,16 @@
 # Kelompok4
 
-![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/cover.png)
+<html>
+<body>
 
- 
+<p align="center">
+<img src="[https://raw.githubusercontent.com/jakariaaa27/RPL-D-1/master/Image/POLINDRA.png](https://github.com/dewikrnia/Kelompok4/blob/main/picture/cover.png)" >
+</p>
+
+</body>
+</html>
+
+
 
 **BAB I Pendahuluan**
 ----------
