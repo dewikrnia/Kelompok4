@@ -552,7 +552,7 @@ Logika Struktur terdapat pada bagian 3.3.1
 **3.3.1 Logika Struktur Data**
 Struktur data logika pada sistem Aplikasi presensi menggunakan kehadiran terdapat struktur Database yang dijelaskan menggunakan ERD.
 
-![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/ERD%20Website%20Profile%20Sekolah-Page-1.drawio.png)
+![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/ERD%20Website%20Profile%20Sekolah-Page-1.drawio%20(1).png)
 
 **Tabel Admin**
 
@@ -568,7 +568,6 @@ Struktur data logika pada sistem Aplikasi presensi menggunakan kehadiran terdapa
 | Data Item | Type | Deskripsi |
 | ------ | ------ | ------ |
 | id_guru | varchar | Nomor auto increment id_prestasi|
-| nip | int | NIP guru|
 | nama_guru | varchar | Nama guru |
 | jabatan | varchar | Jabatan guru |
 | mapel | varchar | Mata pelajaran yang di ajar |
