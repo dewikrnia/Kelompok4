@@ -78,10 +78,10 @@ Website Profil SMP Al Azhar Syifa Budi Pekanbaru II memiliki 1 user yaitu admin.
 | ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA-ORGANISASI%20ADMIN.png) Pada organisasi dapat digunakan admin untuk mengelola data organisasi| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA-EKSTRAKULIKULER%20ADMIN.png) Pada ekstrakulikuler dapat digunakan admin untuk mengelola data ekstrakulikuler| 
 | ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA-%20PENGUMUMAN%20ADMIN%20.png) Pada halaman pengumuman dapat digunakan admin untuk mengelola data pengumuman| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA-%20GALERI%20ADMIN%20.png) Pada halamana geleri dapat digunakan admin untuk mengelola data galeri| 
 | ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA-%20USER%20MANAJEMEN%20ADMIN%20.png) Pada halaman user manajemen dapat digunakan admim untuk mengelola data user| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA_DASHBOARD.png) Pada halaman dashboard dapat digunakan untuk melihat halaman utama yang berisi informasi informasi utama|
-| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA_BERITA.png) Pada halaman berita dapat digunakan untuk melihat berita| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA_DATAGURU.png) Pada halaman data guru dapat digunakan untuk melihat data guru| 
-| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA_PRESTASI.png) Pada halaman prestasi dapat digunakan untuk melihat prestasi| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA_PROGRAMSEKOLAH.png) Pada halaman program sekolah dapat digunakan untuk melihat program sekolah| 
+| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA_BERITA.png) Pada halaman berita dapat digunakan untuk melihat berita| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/FIGMA-%20DATA%20GURU%20USER%20.png) Pada halaman data guru dapat digunakan untuk melihat data guru| 
+| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/FIGMA-%20PRESTASI%20USER.png) Pada halaman prestasi dapat digunakan untuk melihat prestasi| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA_PROGRAMSEKOLAH.png) Pada halaman program sekolah dapat digunakan untuk melihat program sekolah| 
 | ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA_KALANDER%20AKADEMIK.png) Pada halaman kalender akademik digunakan untuk melihat kalender akademik| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA_ORGANISASI.png) Pada organisasi dapat digunakan untuk melihat organisasi| 
-| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA_EKSTRAKULIKULER.png) Pada ekstrakulikuler dapat digunakan untuk melihat ekstrakulikuler|  ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA_PENGUMUMAN.png) Pada halaman pengumuman dapat digunakan untuk melihat pengumuman|
+| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/FIGMA-%20EKSTRAKULIKULER.png) Pada halaman ekstrakulikuler dapat digunakan untuk melihat ekstrakulikuler|  ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA_PENGUMUMAN.png) Pada halaman pengumuman dapat digunakan untuk melihat pengumuman|
 | ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA_UCAPAN%20KEPALA%20SEKOLAH.png) Pada halaman ucapan kepala sekolah dapat digunakan untuk melihat ucapan kepala sekolah| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/FIGMA_VISI%20MISI.png) Pada halaman visi dan misi dapat digunakan untuk melihat visi dan misi| 
 | ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/image.png) Pada halaman galeri dapat digunakan untuk melihat galeri sekolah||
  
@@ -651,13 +651,19 @@ Struktur data logika pada sistem Aplikasi presensi menggunakan kehadiran terdapa
 | keterangan_program| text | Keterangan program |
 | foto_program | varchar | Foto program |
 
-3.4 Validasi Data Wawancara
+Validasi Data Wawancara
 ----------
 Validasi data wawancara dengan pihak SMP Al Azhar Syifa Budi Pekanbaru II.
 ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/SURAT%20VAIDASI%20SEKOLAH_KEL%206_FRAMEWORK_page-0001.jpg)
 ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/SURAT%20VAIDASI%20SEKOLAH_KEL%206_FRAMEWORK_page-0002.jpg)
 
+Dokumentasi
+----------
+Dokumentasi dengan pihak SMP Al Azhar Syifa Budi Pekanbaru II.
+![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/DOKUMENTASI.jpeg)
+
 Job Desc
+----------
 | Nama | Tugas | 
 | ------ | ------ | 
 | Dewi Kurnia Sari | SRS, Desain Website |
