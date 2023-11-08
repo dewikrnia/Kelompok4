@@ -68,7 +68,7 @@ Website Profil SMP Al Azhar Syifa Budi Pekanbaru II memiliki 1 user yaitu admin.
 
 **2.1.2 Antarmuka pengguna**
 
-   - **Mockup Admin ( Website )**
+   - **Mockup Website**
 
 |  |  |
 |--|--|
