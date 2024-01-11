@@ -49,12 +49,10 @@ Bab selanjutnya yaitu menjelaskan sistem yang di terapkan pada aplikasi. Menjela
 Dalam era globalisasi dengan perkembangan teknologi yang pesat, lembaga pendidikan, seperti sekolah, perlu mengikuti perkembangan ini untuk meningkatkan efisiensi dan komunikasi dengan semua pemangku kepentingan, termasuk siswa, orang tua, guru, dan staf sekolah. Dalam studi kasus ini, kami akan merancang sebuah sistem website profil sekolah yang akan memungkinkan admin sekolah untuk mengelola dan menyediakan informasi yang relevan tentang sekolah. Software yang kami buat ini berbasis website dimana akan dirancang untuk memenuhi kebutuhan administrasi dan komunikasi sekolah dengan berbagai fitur yang disesuaikan dengan lingkungan pendidikan. Berikut akan kami jelaskan  sistem software kami,  admin fungsi utama yaitu :
    - Input Data Sekolah
    - Input Data Guru
-   - Input Sistem Akademik
    
    Berikut ini fungsi user dalam bentuk grafik :
    - View Data Sekolah
    - View Data Guru
-   - View Sistem Akademik
 
 2.1   Perspektif produk
 ----------
@@ -81,15 +79,15 @@ Website Profil SMP Al Azhar Syifa Budi Pekanbaru II memiliki 1 user yaitu admin.
 | ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/admin-ucapankepsek.png) Pada halaman ucapan kepala sekolah digunakan admin untuk mengelola data ucapan kepala sekolah|| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/admin-profil.png) Pada profil digunakan admin untuk mengelola data profil sekolah dulu.|
 | ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/admin-kalender.png) Pada halaman kalender akademik digunakan admin untuk mengelola data kalender akademik.| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/admin-galeri.png) Pada halaman galeri digunakan admin untuk mengelola data galeri.|
 | ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/admin-slider.png) Pada halaman silder digunakan admin untuk mengelola data slider.| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/admin-datauser.png) Pada halaman data user digunakan admin untuk mengelola data user.|
-| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/user-data%20guru.png) Pada halaman data guru dapat digunakan untuk melihat data guru.| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/user-informasi.png) Pada halaman informasi dapat informasi dapat digunakan untuk melihat informasi.| 
-| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/user-dalam%20informasi.png) Pada halaman dalam informasi dapat digunakan untuk melihat informasi yang diumumkan secara lebih detail lagi.| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/user-prestasi.png) Pada halaman prestasi dapat digunakan untuk melihat prestasi prestasi siswa dari sekolah smp al azhar syifa budi pekanbaru II.|
-| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/user-program%20sekolah.png) Pada halaman program sekolah dapat digunakan untuk melihat program sekolah.| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/user-dalam%20program%20sekolah.png) Pada halaman dalam program sekolah dapat digunakan untuk melihat program sekolah secara lebih detail lagi.| 
-| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/user-kalender%20akademik.png) Pada halaman kalender akademik digunakan untuk melihat kalender akademik sekolah.| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/user-%20organisasi.png) Pada organisasi dapat digunakan untuk melihat organisasi.| 
-| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/user-ekstrakulikuler.png) Pada halaman ekstrakulikuler dapat digunakan untuk melihat ekstrakulikuler.| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/user-dalam%20ekstrakulikuler.png) Pada halaman dalam ekstrakulikuler dapat digunakan untuk melihat ekstrakulikuler lebih detail lagi.| 
-| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/user-ucapan%20kepala%20sekolah.png) Pada halaman ucapan kepala sekolah dapat digunakan untuk melihat ucapan kepala sekolah| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/user-visi.png) Pada halaman visi dan misi dapat digunakan untuk melihat visi| 
-| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/user-misi.png) Pada halaman visi dan misi dapat digunakan untuk melihat  misi.| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/user-galeri.png) Pada halaman galeri dapat digunakan untuk melihat galeri sekolah.| 
-| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/user-sarana%20prasarana.png) Pada halaman sarana prasarana dapat digunakan untuk melihat seluruh sarana dan prasarana yang ada.| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/user-beranda.png) Pada halaman beranda digunakan untuk menampilkan beberapa fitur penting dari website profile spm al azhar syifa budi pekanbaru II.| 
-| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/user-kontak.png) Pada halaman kontak digunakan untuk menampilkan beberapa plat from yang dapat di hubungi mengenai spm al azhar syifa budi pekanbaru II.|
+| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/user-beranda.png) Pada halaman beranda digunakan untuk menampilkan beberapa informasi penting dari website profile SMP Al-Azhar Syifa Budi Pekanbaru II.| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/user-ucapan%20kepala%20sekolah.png) Pada halaman ucapan kepala sekolah dapat digunakan untuk melihat ucapan kepala sekolah.|
+| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/user-data%20guru.png) Pada halaman data guru dapat digunakan untuk melihat data guru.| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/user-prestasi.png) Pada halaman prestasi dapat digunakan untuk melihat prestasi prestasi siswa.|
+| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/user-sarana%20prasarana.png) Pada halaman sarana prasarana dapat digunakan untuk melihat seluruh sarana dan prasarana yang ada. | ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/user-galeri.png) Pada halaman galeri dapat digunakan untuk melihat galeri sekolah.| 
+| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/user-visi.png) Pada halaman visi dan misi dapat digunakan untuk melihat visi.| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/user-misi.png) Pada halaman visi dan misi dapat digunakan untuk melihat misi.| 
+| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/user-informasi.png) Pada halaman dapat digunakan untuk melihat informasi yang ada.| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/user-dalam%20informasi.png) Pada halaman dalam informasi dapat digunakan untuk melihat informasi secara lebih detail.| 
+| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/user-program%20sekolah.png) Pada halaman program sekolah dapat digunakan untuk melihat program sekolah.| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/user-dalam%20program%20sekolah.png) Pada halaman dalam program sekolah dapat digunakan untuk melihat program sekolah secara lebih detail.| 
+| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/user-kalender%20akademik.png) Pada halaman kalender akademik digunakan untuk melihat kalender akademik.| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/user-%20organisasi.png) Pada organisasi dapat digunakan untuk melihat organisasi.| 
+| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/user-ekstrakulikuler.png) Pada halaman ekstrakulikuler dapat digunakan untuk melihat ekstrakulikuler.| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/user-dalam%20ekstrakulikuler.png) Pada halaman dalam ekstrakulikuler dapat digunakan untuk melihat ekstrakulikuler lebih detail.| 
+| ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/user-kontak.png) Pada halaman kontak digunakan untuk menampilkan beberapa kontak yang dapat dihubungi mengenai SMP Al-Azhar Syifa Budi Pekanbaru II.|
  
 **2.1.3 Antarmuka perangkat keras**
 
@@ -158,174 +156,181 @@ Xref: Bagian 3.2.1, Login Admin
 Use Case: Mengelola Tentang Kami
 
 Diagram: 
-![](https://github.com/dewikrnia/Kelompok4/blob/main/picture/MengelolaTentangKami.png)
+![](https://github.com/dewikrnia/Kelompok4/blob/main/picture/Admin%20-%20Mengelola%20Tentang%20Kami.png)
 
 Deskripsi Singkat
-Admin melakukan kelola Tentang yang berisi ucapan kepala sekolah, visi dan misi, data guru, prestasi, dan galeri.
+Admin melakukan kelola Tentang Kami yang berisi ucapan kepala sekolah, visi dan misi, data guru, prestasi, dan galeri, saran dan prasarana, dan informasi.
 Deskripsi Langkah-langkah
-1. Admin mengklik navbar Tentang.
-2. Admin memilih menu yang ada pada Tentang.
-3. Sistem akan menampilkan pilihan menu Tentang yang dipilih.
-4. Admin melakukan kelola data pada pilihan menu yang dipilih.
+1. Admin memilih menu ucapan kepala sekolah, visi dan misi, data guru, prestasi, dan galeri, saran dan prasarana, dan informasi yang ingin dikelola.
+2. Sistem akan menampilkan data dari menu yang dipilih.
+3. Admin melakukan kelola data pada menu yang dipilih.
+4. Sistem akan menampilkan perubahan pada menu yang dikelola.
 
 Xref: Bagian 3.2.2, Admin Mengelola Tentang Kami
 
-**2.2.3 Admin Mengelola Profil Sekolah**
+**2.2.3 Admin Mengelola Akademik**
 
-Use Case: Mengelola Profil Sekolah
+Use Case: Mengelola Akademik
 
 Diagram :
-![](https://github.com/dewikrnia/Kelompok4/blob/main/picture/MengelolaProfilSekolah.png)
+![](https://github.com/dewikrnia/Kelompok4/blob/main/picture/Admin%20-%20Mengelola%20Akademik.png)
 
 Deskripsi Singkat
-Admin melakukan kelola Profil Sekolah yang berisi program sekolah, kalender akademik, dan fasilitas.
+Admin melakukan kelola Profil Sekolah yang berisi program sekolah dan kalender akademik.
 Deskripsi Langkah-langkah
-1. Admin mengklik navbar Profil Sekolah.
-2. Admin memilih menu yang ada pada Profil Sekolah.
-3. Sistem akan menampilkan pilihan menu Profil Sekolah yang dipilih.
-4. Admin melakukan kelola data pada pilihan menu yang dipilih.
+1. Admin memilih menu program sekolah dan kalender akademik yang ingin dikelola.
+2. Sistem akan menampilkan data dari menu yang dipilih.
+3. Admin melakukan kelola data pada menu yang dipilih.
+4. Sistem akan menampilkan perubahan pada menu yang dikelola.
 
-Xref: Bagian 3.2.3, Mengelola Profil Sekolah
-      
-**2.2.4 Admin Mengelola Berita**
+Xref: Bagian 3.2.3, Mengelola Akademik
 
-Use Case: Mengelola Berita
-
-Diagram:
-![](https://github.com/dewikrnia/Kelompok4/blob/main/picture/MengelolaBerita.png)
-      
-Deskripsi Singkat
-Admin melakukan kelola Berita.
-Deskripsi Langkah-langkah
-1. Admin mengklik navbar Berita.
-2. Sistem akan menampilkan menu Berita yang dipilih.
-3. Admin melakukan kelola data pada menu Berita.
-
-Xref: Bagian 3.2.4, Mengelola Berita
-
-**2.2.5 Admin Mengelola Pengumuman**
-
-Use Case: Mengelola Pengumuman
-
-Diagram:
-![](https://github.com/dewikrnia/Kelompok4/blob/main/picture/MengelolaPengumuman.png)
-
-Deskripsi Singkat
-Admin melakukan kelola Pengumuman.
-Deskripsi Langkah-langkah
-1. Admin mengklik navbar Pengumuman.
-2. Sistem akan menampilkan menu Pengumuman yang dipilih.
-3. Admin melakukan kelola data pada menu Pengumuman.
-
-Xref: Bagian 3.2.5, Mengelola Pengumuman
-   
-**2.2.6 Admin Mengelola Kontak**
+**2.2.4 Admin Mengelola Kontak**
 
 Use Case: Mengelola Kontak
 
 Diagram:
-![](https://github.com/dewikrnia/Kelompok4/blob/main/picture/MengelolaKontak.png)
+![](https://github.com/dewikrnia/Kelompok4/blob/main/picture/Admin%20-%20Mengelola%20Kontak.png)
 
 Deskripsi Singkat
 Admin melakukan kelola Kontak.
 Deskripsi Langkah-langkah
-1. Admin mengklik navbar Kontak.
-2. Sistem akan menampilkan menu Kontak yang dipilih.
-3. Admin melakukan kelola data pada menu Kontak. 
+1. Admin mengklik menu Kontak.
+2. Sistem akan menampilkan data dari menu yang dipilih.
+3. Admin melakukan kelola data pada menu yang dipilih.
+4. Sistem akan menampilkan perubahan pada menu yang dikelola.
 
-Xref: Bagian 3.2.6, Mengelola Kontak
+Xref: Bagian 3.2.4, Mengelola Kontak
 
-**2.2.7 Admin Mengelola Kemuridan**
+**2.2.5 Admin Mengelola Kemuridan**
 
 Use Case: Mengelola Kemuridan
 
 Diagram:
-![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/MengelolaKegiatanKemuridan.png)
+![](https://github.com/dewikrnia/Kelompok4/blob/main/picture/Admin%20-%20Mengelola%20Kemuridan.png)
 
 Deskripsi Singkat
 Admin melakukan kelola Kemuridan yang berisi Organisasi dan Ekstrakulikuler.
 Deskripsi Langkah-langkah
-1. Admin mengklik navbar Kemuridan.
-2. Admin memilih menu yang ada pada Kemuridan.
-3. Sistem akan menampilkan pilihan menu Kemuridan yang dipilih.
-4. Admin melakukan kelola data pada pilihan menu yang dipilih.
+1. Admin memilih menu organisasi dan ekstrakulikuler yang ingin dikelola.
+2. Sistem akan menampilkan data dari menu yang dipilih.
+3. Admin melakukan kelola data pada menu yang dipilih.
+4. Sistem akan menampilkan perubahan pada menu yang dikelola.
 
-Xref: Bagian 3.2.7, Mengelola Kemuridan
+Xref: Bagian 3.2.5, Mengelola Kemuridan
 
-**2.2.8 User Melihat Tentang Kami**
+**2.2.6 Admin Mengelola Profil**
+
+Use Case: Mengelola Profil
+
+Diagram:
+![](https://github.com/dewikrnia/Kelompok4/blob/main/picture/Admin%20-%20Mengelola%20Profil.png)
+
+Deskripsi Singkat
+Admin melakukan kelola Profil.
+Deskripsi Langkah-langkah
+1. Admin mengklik menu Profil.
+2. Sistem akan menampilkan data dari menu yang dipilih.
+3. Admin melakukan kelola data pada menu yang dipilih.
+4. Sistem akan menampilkan perubahan pada menu yang dikelola.
+
+Xref: Bagian 3.2.6, Mengelola Profil
+
+**2.2.7 Admin Mengelola Slider**
+
+Use Case: Mengelola Slider
+
+Diagram:
+![](https://github.com/dewikrnia/Kelompok4/blob/main/picture/Admin%20-%20Mengelola%20Slider.png)
+
+Deskripsi Singkat
+Admin melakukan kelola Slider.
+Deskripsi Langkah-langkah
+1. Admin mengklik menu Slider.
+2. Sistem akan menampilkan data dari menu yang dipilih.
+3. Admin melakukan kelola data pada menu yang dipilih.
+4. Sistem akan menampilkan perubahan pada menu yang dikelola.
+
+Xref: Bagian 3.2.7, Mengelola Slider
+
+**2.2.8 Admin Mengelola Data User**
+
+Use Case: Mengelola Data User
+
+Diagram:
+![](https://github.com/dewikrnia/Kelompok4/blob/main/picture/Admin%20-%20Mengelola%20Data%20User.png)
+
+Deskripsi Singkat
+Admin melakukan kelola Data User.
+Deskripsi Langkah-langkah
+1. Admin mengklik menu Data User.
+2. Sistem akan menampilkan data dari menu yang dipilih.
+3. Admin melakukan kelola data pada menu yang dipilih.
+4. Sistem akan menampilkan perubahan pada menu yang dikelola.
+
+Xref: Bagian 3.2.8, Mengelola Data User
+
+**2.2.9 Admin Mengelola Data Beranda**
+
+Use Case: Mengelola Beranda
+
+Diagram:
+![](https://github.com/dewikrnia/Kelompok4/blob/main/picture/Admin%20-%20Mengelola%20Beranda.png)
+
+Deskripsi Singkat
+Admin melakukan kelola Beranda.
+Deskripsi Langkah-langkah
+1. Admin mengklik menu yang akan ditampilkan pada halaman Beranda.
+2. Sistem akan menampilkan data dari menu yang dipilih.
+3. Admin melakukan kelola data pada menu yang dipilih.
+4. Sistem akan menampilkan perubahan pada menu yang dikelola.
+
+Xref: Bagian 3.2.9, Mengelola Data User
+
+**2.2.10 User Melihat Tentang Kami**
 
 Use Case: Melihat Tentang Kami
 
 Diagram:
-![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/MelihatTentangKami.png)
+![](https://github.com/dewikrnia/Kelompok4/blob/main/picture/User%20Melihat%20Tentang%20Kami.png)
 
 Deskripsi Singkat
-User melihat Tentang Kami yang berisi ucapan kepala sekolah, visi dan misi, data guru, prestasi, dan galeri.
+User melihat Tentang Kami yang berisi ucapan kepala sekolah, visi dan misi, data guru, prestasi, dan galeri, saran dan prasarana, dan informasi.
 Deskripsi Langkah-langkah
 1. User mengklik navbar Tentang Kami.
 2. User memilih menu yang ada pada Tentang Kami.
-3. Sistem akan menampilkan pilihan menu Tentang Kami yang dipilih.
+3. Sistem akan menampilkan data pilihan menu Tentang Kami yang dipilih.
 
-Xref: Bagian 3.2.8, Melihat Tentang Kami
+Xref: Bagian 3.2.10, Melihat Tentang Kami
 
-**2.2.9 User Melihat Profil Sekolah**
+**2.2.11 User Melihat Akademik**
 
-Use Case: Melihat Profil Sekolah
-
-Diagram:
-![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/MelihatProfilSekolah.png)
-
-Deskripsi Singkat
-User melihat Profil Sekolah yang berisi program sekolah, kalender akademik, dan fasilitas.
-Deskripsi Langkah-langkah
-1. User mengklik navbar Profil Sekolah.
-2. User memilih menu yang ada pada Profil Sekolah.
-3. Sistem akan menampilkan pilihan menu Profil Sekolah yang dipilih.
-
-Xref: Bagian 3.2.9, Melihat Profil Sekolah
-
-**2.2.10 User Melihat Berita**
-
-Use Case: Melihat Berita
+Use Case: Melihat Akademik
 
 Diagram:
-![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/MelihatBerita.png)
+![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/User%20-%20Melihat%20Akademik.png)
 
 Deskripsi Singkat
-User melihat Berita.
+User melihat Akademik yang berisi program sekolah dan kalender akademik.
 Deskripsi Langkah-langkah
-1. User mengklik navbar Berita.
-2. Sistem akan menampilkan menu Berita yang dipilih.
+1. User mengklik navbar Akademik.
+2. User memilih menu yang ada pada Akademik.
+3. Sistem akan menampilkan data pilihan menu Akademik yang dipilih.
 
-Xref: Bagian 3.2.10, Melihat Pengumuman
-
-**2.2.11 User Melihat Pengumuman**
-
-Use Case: Melihat Pengumuman
-
-Diagram:
-![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/MelihatPengumuman.png)
-
-Deskripsi Singkat
-User melihat Pengumuman.
-Deskripsi Langkah-langkah
-1. User mengklik navbar Pengumuman.
-2. Sistem akan menampilkan menu Pengumuman yang dipilih.
-
-Xref: Bagian 3.2.11, Melihat Pengumuman
+Xref: Bagian 3.2.11, Melihat Akademik
 
 **2.2.12 User Melihat Kontak**
 
 Use Case: Melihat Kontak
 
 Diagram:
-![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/MelihatKontak.png)
+![enter image description here]()
 
 Deskripsi Singkat
 User melihat Kontak.
 Deskripsi Langkah-langkah
 1. User mengklik navbar Kontak.
-2. Sistem akan menampilkan menu Kontak yang dipilih. 
+2. Sistem akan menampilkan data menu Kontak. 
 
 Xref: Bagian 3.2.13, Melihat Kontak
 
@@ -334,17 +339,31 @@ Xref: Bagian 3.2.13, Melihat Kontak
 Use Case: Melihat Kemuridan
 
 Diagram:
-![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/MelihatKegiatanKemuridan.png)
+![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/User%20-%20Melihat%20Kemuridan.png)
 
 Deskripsi Singkat
 User melihat Kemuridan yang berisi Organisasi dan Ekstrakulikuler.
 Deskripsi Langkah-langkah
 1. User mengklik navbar Kemuridan.
 2. User memilih menu yang ada pada Kemuridan.
-3. Sistem akan menampilkan pilihan menu Kemuridan yang dipilih. 
+3. Sistem akan menampilkan data pilihan menu Kemuridan yang dipilih. 
 
-Xref: Bagian 3.2.13, Melihat Kegiatan Kemuridan
+Xref: Bagian 3.2.13, Melihat Kemuridan
 
+**2.2.14 User Melihat Beranda**
+
+Use Case: Melihat Beranda
+
+Diagram:
+![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/User%20-%20Melihat%20Beranda.png)
+
+Deskripsi Singkat
+User melihat Beranda.
+Deskripsi Langkah-langkah
+1. User mengklik navbar Beranda.
+2. Sistem akan menampilkan data menu Beranda.
+
+Xref: Bagian 3.2.14, Melihat Beranda
 
 
 2.3   Spesifikasi Kebutuhan non-fungsional
@@ -378,7 +397,7 @@ BAB III Requirement specification
 ----------
 3.1 Persyaratan Antarmuka Eksternal
 ----------
-Tidak ada persyaratan khusus untuk mengakses website ini, sehingga siapapun dapat mengakses website ini tanpa perlu login terlwbih dahulu.
+Tidak ada persyaratan khusus untuk mengakses website ini, sehingga siapapun dapat mengakses website ini tanpa perlu login terlebih dahulu.
       
 3.2 Functional Requirement
 ----------
@@ -390,7 +409,7 @@ Logika Struktur terdapat pada bagian 3.3.1
 |--|--|
 | Nama Fungsi | Login |
 | Xref | Bagian 2.2.1, Login Admin |
-| Trigger | Membuka Website Profil SMP Al Azhar Syifa Budi Pekanbaru II |
+| Trigger | Membuka Website Admin Profil SMP Al Azhar Syifa Budi Pekanbaru II |
 | Precondition | Halaman login |
 | Basic Path | 1. Admin mengisi form login dengan username dan password <br> 2.Admin mengklik tombol login <br> 3. Sistem melakukan validasi login <br> 4. Bila sukses sistem akan mengarahkan ke halaman beranda <br> 5. Bila gagal sistem akan menampilkan peringatan |
 | Alternative | Tidak ada |
@@ -403,128 +422,128 @@ Logika Struktur terdapat pada bagian 3.3.1
 |--|--|
 | Nama Fungsi | Mengelola Tentang Kami |
 | Xref | Bagian 2.2.2, Mengelola Tentang Kami |
-| Trigger | Membuka Website Profil SMP Al Azhar Syifa Budi Pekanbaru II |
+| Trigger | Membuka Website Admin Profil SMP Al Azhar Syifa Budi Pekanbaru II |
 | Precondition | Membuka halaman utama |
-| Basic Path | 1. Admin mengklik navbar Tentang <br> 2. Sistem akan menampilkan combobox pilihan ucapan kepala sekolah, visi dan misi, data guru, prestasi, dan galeri <br>3. Admin memilih combobox tersebut dan klik tombol tambah, hapus, atau edit <br> 4. Sistem akan menampilkan hasil perubahan. |
+| Basic Path | 1. Admin menu ucapan kepala sekolah, visi dan misi, data guru, prestasi, dan galeri, saran dan prasarana, dan informasi yang ingin dikelola <br> 2. Admin memilih menu tersebut dan klik tombol tambah, hapus, atau edit <br> 3. Sistem akan menampilkan hasil perubahan. |
 | Alternative | Tidak ada |
-| Post Condition | Admin melihat hasil perubahan Tentang |
+| Post Condition | Admin melihat hasil perubahan menu yang akan dipanggil pada halaman Tentang Kami |
 | Exception Push | Tidak ada koneksi, data belum diinput |
    
-**3.2.3 Admin Mengelola Profil Sekolah**
+**3.2.3 Admin Mengelola Akademik**
 
 |  |  |
 |--|--|
-| Nama Fungsi | Mengelola Profil Sekolah |
-| Xref | Bagian 2.2.3, Mengelola Profil Sekolah |
-| Trigger | Membuka Website Profil SMP Al Azhar Syifa Budi Pekanbaru II |
+| Nama Fungsi | Mengelola Akademik |
+| Xref | Bagian 2.2.3, Mengelola Akademik |
+| Trigger | Membuka Website Admin Profil SMP Al Azhar Syifa Budi Pekanbaru II |
 | Precondition | Membuka halaman utama |
-| Basic Path | 1. Admin mengklik navbar Profil Sekolah <br> 2. Sistem akan menampilkan combobox pilihan program sekolah, kalender akademik, dan fasilitas <br>3. Admin memilih combobox tersebut dan klik tombol tambah, hapus, atau edit <br> 4. Sistem akan menampilkan hasil perubahan. |
+| Basic Path | 1. Admin memilih menu program sekolah dan kalender akademik yang ingin dikelola <br> 2. Admin memilih menu tersebut dan klik tombol tambah, hapus, atau edit <br> 3. Sistem akan menampilkan hasil perubahan. |
 | Alternative | Tidak ada |
-| Post Condition | Admin melihat hasil perubahan Profil Sekolah |
+| Post Condition | Admin melihat hasil perubahan menu yang akan dipanggil pada halaman Akademik |
 | Exception Push | Tidak ada koneksi, data belum diinput |
-   
-**3.2.4 Admin Mengelola Berita**
 
-|  |  |
-|--|--|
-| Nama Fungsi | Mengelola Berita |
-| Xref | Bagian 2.2.4, Mengelola Berita |
-| Trigger | Membuka Website Profil SMP Al Azhar Syifa Budi Pekanbaru II |
-| Precondition | Membuka halaman utama |
-| Basic Path | 1. Admin mengklik navbar Berita <br> 2. Admin klik tombol tambah, hapus, atau edit <br> 3. Sistem akan menampilkan hasil perubahan. |
-| Alternative | Tidak ada |
-| Post Condition | Admin melihat hasil perubahan Berita |
-| Exception Push | Tidak ada koneksi, data belum diinput |
-   
-**3.2.5 Admin Mengelola Pengumuman**
-
-|  |  |
-|--|--|
-| Nama Fungsi | Mengelola Pengumuman |
-| Xref | Bagian 2.2.5, Mengelola Pengumuman |
-| Trigger | Membuka Website Profil SMP Al Azhar Syifa Budi Pekanbaru II |
-| Precondition | Membuka halaman utama |
-| Basic Path | 1. Admin mengklik navbar Pengumuman <br> 2. Admin klik tombol tambah, hapus, atau edit <br> 3. Sistem akan menampilkan hasil perubahan. |
-| Alternative | Tidak ada |
-| Post Condition | Admin melihat hasil perubahan Pengumuman |
-| Exception Push | Tidak ada koneksi, data belum diinput |
-   
-**3.2.6 Admin Mengelola Kontak**
+**3.2.4 Admin Mengelola Kontak**
 
 |  |  |
 |--|--|
 | Nama Fungsi | Mengelola Kontak |
-| Xref | Bagian 2.2.6, Mengelola Kontak |
-| Trigger | Membuka Website Profil SMP Al Azhar Syifa Budi Pekanbaru II |
+| Xref | Bagian 2.2.4, Mengelola Kontak |
+| Trigger | Membuka Website Admin Profil SMP Al Azhar Syifa Budi Pekanbaru II |
 | Precondition | Membuka halaman utama |
-| Basic Path | 1. Admin mengklik navbar Kontak <br> 2. Admin klik tombol tambah, hapus, atau edit <br> 3. Sistem akan menampilkan hasil perubahan. |
+| Basic Path | 1. Admin mengklik menu Kontak <br> 2. Admin klik tombol tambah, hapus, atau edit <br> 3. Sistem akan menampilkan hasil perubahan. |
 | Alternative | Tidak ada |
 | Post Condition | Admin melihat hasil perubahan Kontak |
 | Exception Push | Tidak ada koneksi, data belum diinput |
 
-**3.2.7  Admin Mengelola Kemuridan**
+**3.2.5  Admin Mengelola Kemuridan**
 
 |  |  |
 |--|--|
 | Nama Fungsi | Mengelola Kemuridan |
-| Xref | Bagian 2.2.7, Mengelola Kemuridan |
-| Trigger | Membuka Website Profil SMP Al Azhar Syifa Budi Pekanbaru II |
+| Xref | Bagian 2.2.5, Mengelola Kemuridan |
+| Trigger | Membuka Website Admin Profil SMP Al Azhar Syifa Budi Pekanbaru II |
 | Precondition | Membuka halaman utama |
-| Basic Path | 1. Admin mengklik navbar Kemuridan <br> 2. Sistem akan menampilkan combobox pilihan organisasi dan ekstrakulikuler <br>3. Admin memilih combobox tersebut dan klik tombol tambah, hapus, atau edit <br> 4. Sistem akan menampilkan hasil perubahan. |
+| Basic Path | 1. Admin memilih menu organisasi dan ekstrakulikuler yang ingin dikelola <br> 2. Admin memilih menu tersebut dan klik tombol tambah, hapus, atau edit <br> 3. Sistem akan menampilkan hasil perubahan. |
 | Alternative | Tidak ada |
-| Post Condition | Admin melihat hasil perubahan Kemuridan |
+| Post Condition | Admin melihat hasil perubahan menu yang akan dipanggil pada halaman Kemuridan |
 | Exception Push | Tidak ada koneksi, data belum diinput |
 
-**3.2.8 User Melihat Tentang Kami**
+**3.2.6 Admin Mengelola Profil**
+
+|  |  |
+|--|--|
+| Nama Fungsi | Mengelola Profil |
+| Xref | Bagian 2.2.6, Mengelola Profil |
+| Trigger | Membuka Website Admin Profil SMP Al Azhar Syifa Budi Pekanbaru II |
+| Precondition | Membuka halaman utama |
+| Basic Path | 1. Admin mengklik menu Kontak <br> 2. Admin klik tombol edit <br> 3. Sistem akan menampilkan hasil perubahan. |
+| Alternative | Tidak ada |
+| Post Condition | Admin melihat hasil perubahan Profil |
+| Exception Push | Tidak ada koneksi, data belum diinput |
+
+**3.2.7 Admin Mengelola Slider**
+
+|  |  |
+|--|--|
+| Nama Fungsi | Mengelola Slider |
+| Xref | Bagian 2.2.7, Mengelola Slider |
+| Trigger | Membuka Website Admin Profil SMP Al Azhar Syifa Budi Pekanbaru II |
+| Precondition | Membuka halaman utama |
+| Basic Path | 1. Admin mengklik menu Kontak <br> 2. Admin klik tombol tambah, hapus, atau edit <br> 3. Sistem akan menampilkan hasil perubahan. |
+| Alternative | Tidak ada |
+| Post Condition | Admin melihat hasil perubahan Slider |
+| Exception Push | Tidak ada koneksi, data belum diinput |
+
+**3.2.8 Admin Mengelola Data User**
+
+|  |  |
+|--|--|
+| Nama Fungsi | Mengelola Data User |
+| Xref | Bagian 2.2.8, Mengelola Data User |
+| Trigger | Membuka Website Admin Profil SMP Al Azhar Syifa Budi Pekanbaru II |
+| Precondition | Membuka halaman utama |
+| Basic Path | 1. Admin mengklik menu Kontak <br> 2. Admin klik tombol hapus <br> 3. Sistem akan menampilkan hasil perubahan. |
+| Alternative | Tidak ada |
+| Post Condition | Admin melihat hasil perubahan Data User |
+| Exception Push | Tidak ada koneksi, data belum diinput |
+
+**3.2.9 Admin Mengelola Beranda**
+
+|  |  |
+|--|--|
+| Nama Fungsi | Mengelola Beranda |
+| Xref | Bagian 2.2.9, Mengelola Beranda |
+| Trigger | Membuka Website Admin Profil SMP Al Azhar Syifa Budi Pekanbaru II |
+| Precondition | Membuka halaman utama |
+| Basic Path | 1. Admin mengklik menu yang akan ditampilkan pada halaman Beranda <br> 2. Admin klik tombol tambah, hapus, atau edit <br> 3. Sistem akan menampilkan hasil perubahan. |
+| Alternative | Tidak ada |
+| Post Condition | Admin melihat hasil perubahan Beranda |
+| Exception Push | Tidak ada koneksi, data belum diinput |
+
+**3.2.10 User Melihat Tentang Kami**
 
 |  |  |
 |--|--|
 | Nama Fungsi | Melihat Tentang Kami |
-| Xref | Bagian 2.2.8, Melihat Tentang Kami |
+| Xref | Bagian 2.2.10, Melihat Tentang Kami |
 | Trigger | Membuka Website Profil SMP Al Azhar Syifa Budi Pekanbaru II |
 | Precondition | Membuka halaman utama |
-| Basic Path | 1. User mengklik navbar Tentang <br> 2. Sistem akan menampilkan combobox pilihan ucapan kepala sekolah, visi dan misi, data guru, prestasi, dan galeri <br>3. Sistem akan menampilkan hasil combobox yang dipilih. |
+| Basic Path | 1. User mengklik navbar Tentang <br> 2. Sistem akan menampilkan combobox pilihan ucapan kepala sekolah, visi dan misi, data guru, prestasi, dan galeri, saran dan prasarana, dan informasi <br>3. Sistem akan menampilkan hasil combobox yang dipilih. |
 | Alternative | Tidak ada |
 | Post Condition | User melihat hasil combobox yang yang dipilih |
 | Exception Push | Tidak ada koneksi |
    
-**3.2.9 User Melihat Profil Sekolah**
+**3.2.11 User Melihat Akademik**
 
 |  |  |
 |--|--|
-| Nama Fungsi | Melihat Profil Sekolah |
-| Xref | Bagian 2.2.9, Melihat Profil Sekolah |
+| Nama Fungsi | Melihat Akademik |
+| Xref | Bagian 2.2.11, Melihat Akademik |
 | Trigger | Membuka Website Profil SMP Al Azhar Syifa Budi Pekanbaru II |
 | Precondition | Membuka halaman utama |
-| Basic Path | 1. User mengklik navbar Profil Sekolah <br> 2. Sistem akan menampilkan combobox pilihan program sekolah, kalender akademik, dan fasilitas <br>3.  Sistem akan menampilkan hasil combobox yang dipilih. |
+| Basic Path | 1. User mengklik navbar Profil Sekolah <br> 2. Sistem akan menampilkan combobox pilihan program sekolah dan kalender akademik <br>3.  Sistem akan menampilkan hasil combobox yang dipilih. |
 | Alternative | Tidak ada |
 | Post Condition | User melihat hasil combobox yang dipilihh |
-| Exception Push | Tidak ada koneksi |
-   
-**3.2.10 User Melihat Berita**
-
-|  |  |
-|--|--|
-| Nama Fungsi | Melihat Berita |
-| Xref | Bagian 2.2.10, Melihat Berita |
-| Trigger | Membuka Website Profil SMP Al Azhar Syifa Budi Pekanbaru II |
-| Precondition | Membuka halaman utama |
-| Basic Path | 1. User mengklik navbar Berita <br> 2. Sistem akan menampilkan menu Berita. |
-| Alternative | Tidak ada |
-| Post Condition | User melihat menu Berita |
-| Exception Push | Tidak ada koneksi |
-   
-**3.2.11 User Melihat Pengumuman**
-
-|  |  |
-|--|--|
-| Nama Fungsi | Melihat Pengumuman |
-| Xref | Bagian 2.2.11, Melihat Pengumuman |
-| Trigger | Membuka Website Profil SMP Al Azhar Syifa Budi Pekanbaru II |
-| Precondition | Membuka halaman utama |
-| Basic Path | 1. User mengklik navbar Pengumuman <br> 2. Sistem akan menampilkan menu Pengumuman. |
-| Alternative | Tidak ada |
-| Post Condition | User meelihat menu Pengumuman |
 | Exception Push | Tidak ada koneksi |
    
 **3.2.12 User Melihat Kontak**
@@ -535,7 +554,7 @@ Logika Struktur terdapat pada bagian 3.3.1
 | Xref | Bagian 2.2.12, Melihat Kontak |
 | Trigger | Membuka Website Profil SMP Al Azhar Syifa Budi Pekanbaru II |
 | Precondition | Membuka halaman utama |
-| Basic Path | 1. User mengklik navbar Kontak <br> 2. Sistem akan melihat Kontak. |
+| Basic Path | 1. User mengklik navbar Kontak <br> 2. Sistem akan menampilkan halaman Kontak. |
 | Alternative | Tidak ada |
 | Post Condition | User melihat Kontak |
 | Exception Push | Tidak ada koneksi |
@@ -551,6 +570,19 @@ Logika Struktur terdapat pada bagian 3.3.1
 | Basic Path | 1. User mengklik navbar Kemuridan <br> 2. Sistem akan menampilkan combobox pilihan organisasi dan ekstrakulikuler <br>3. Sistem akan menampilkan hasil combobox yang dipilih. |
 | Alternative | Tidak ada |
 | Post Condition | User melihat hasil combobox yang dipilih |
+| Exception Push | Tidak ada koneksi |
+
+**3.2.14 User Melihat Beranda**
+
+|  |  |
+|--|--|
+| Nama Fungsi | Melihat Beranda |
+| Xref | Bagian 2.2.14, Melihat Beranda |
+| Trigger | Membuka Website Profil SMP Al Azhar Syifa Budi Pekanbaru II |
+| Precondition | Membuka halaman utama |
+| Basic Path | 1. User mengklik navbar Beranda <br> 2. Sistem akan menampilkan halaman Beranda. |
+| Alternative | Tidak ada |
+| Post Condition | User melihat Beranda |
 | Exception Push | Tidak ada koneksi |
    
 3.3 Struktur Detail Kebutuhan Non-Fungsional
