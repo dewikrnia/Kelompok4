@@ -564,7 +564,7 @@ Struktur data logika pada sistem Aplikasi presensi menggunakan kehadiran terdapa
 
 | Data Item | Type | Deskripsi |
 | ------ | ------ | ------ |
-| id| varchar | Nomer auto increment id_admin |
+| id| bigint | Nomer auto increment id |
 | username | varchar | berisikan username untuk akses login admin |
 | password | varchar | berisikan password untuk login admin |
 | email | varchar | berisikan email dari admin |
@@ -573,7 +573,7 @@ Struktur data logika pada sistem Aplikasi presensi menggunakan kehadiran terdapa
 
 | Data Item | Type | Deskripsi |
 | ------ | ------ | ------ |
-| id_guru | varchar | Nomor auto increment id_prestasi|
+| id_guru | varchar | Nomor auto increment id_guru |
 | nama_guru | varchar | Nama guru |
 | jabatan | varchar | Jabatan guru |
 | mapel | varchar | Mata pelajaran yang di ajar |
@@ -589,45 +589,6 @@ Struktur data logika pada sistem Aplikasi presensi menggunakan kehadiran terdapa
 | keterangan_prestasi | text | Keterangan prestasi |
 | foto_prestasi | varchar | Foto prestasi |
 
-**Tabel Pengumuman**
-
-| Data Item | Type | Deskripsi |
-| ------ | ------ | ------ |
-| id_pengumuman | varchar | Nomor auto increment id_pengumuman|
-| nama_pengumuman | varchar | Nama pengumuman |
-| tanggal_pengumuman | date | Tanggal pengumuman |
-| keterangan_pengumuman| text | Keterangan pengumuman |
-| foto_pengumuman | varchar | Foto pengumuman |
-
-**Tabel Galeri**
-
-| Data Item | Type | Deskripsi |
-| ------ | ------ | ------ |
-| id_galeri | varchar | Nomor auto increment id_galeri|
-| nama_galeri | varchar | Nama galeri |
-| tanggal_galeri | date | Tanggal galeri |
-| keterangan_galeri| text | Keterangan galeri |
-| foto_galeri | varchar | Foto galeri |
-| video_galeri | varchar | Video galeri |
-
-**Tabel Fasilitas**
-
-| Data Item | Type | Deskripsi |
-| ------ | ------ | ------ |
-| id_fasilitas | varchar | Nomor auto increment id_fasilitas|
-| nama_fasilitas| varchar | Nama fasilitas |
-| keterangan_fasilitas| text | Keterangan fasilitas |
-| foto_fasilitas | varchar | Foto fasilitas |
-
-**Tabel Ekstrakulikuler**
-
-| Data Item | Type | Deskripsi |
-| ------ | ------ | ------ |
-| id_ekstrakulikuler | varchar | Nomor auto increment id_ekstrakulikuler|
-| nama_ekstrakulikuler| varchar | Nama ekstrakulikuler |
-| keterangan_ekstrakulikuler| text | Keterangan ekstrakulikuler |
-| foto_ekstrakulikuler | varchar | Foto ekstrakulikuler |
-
 **Tabel Berita**
 
 | Data Item | Type | Deskripsi |
@@ -638,6 +599,37 @@ Struktur data logika pada sistem Aplikasi presensi menggunakan kehadiran terdapa
 | keterangan_berita| text | Keterangan berita |
 | foto_berita | varchar | Foto berita |
 
+
+**Tabel Galeri**
+
+| Data Item | Type | Deskripsi |
+| ------ | ------ | ------ |
+| id_galeri | varchar | Nomor auto increment id_galeri|
+| nama_galeri | varchar | Nama galeri |
+| tanggal_galeri | date | Tanggal galeri |
+| keterangan_galeri| text | Keterangan galeri |
+| file_galeri | varchar | File galeri |
+
+**Tabel Fasilitas**
+
+| Data Item | Type | Deskripsi |
+| ------ | ------ | ------ |
+| id_fasilitas | varchar | Nomor auto increment id_fasilitas|
+| nama_fasilitas| varchar | Nama fasilitas |
+| keterangan_fasilitas| text | Keterangan fasilitas |
+| foto_fasilitas | varchar | Foto fasilitas |
+| tanggal_fasilitas | date | Tanggal fasilitas |
+
+**Tabel Ekstrakulikuler**
+
+| Data Item | Type | Deskripsi |
+| ------ | ------ | ------ |
+| id_eskul | varchar | Nomor auto increment id_ekstrakulikuler|
+| nama_eskul | varchar | Nama ekstrakulikuler |
+| keterangan_eskul | text | Keterangan ekstrakulikuler |
+| foto_eskul | varchar | Foto ekstrakulikuler |
+| tanggal_eskul | date | Tanggal ekstrakulikuler |
+
 **Tabel Organisasi**
 
 | Data Item | Type | Deskripsi |
@@ -646,16 +638,71 @@ Struktur data logika pada sistem Aplikasi presensi menggunakan kehadiran terdapa
 | nama_organisasi | varchar | Nama organisasi |
 | keterangan_organisasi| text | Keterangan organisasi |
 | foto_organisasi | varchar | Foto organisasi |
+| tanggal_organisasi | date | Tanggal organisasi |
 
 **Tabel Program Sekolah**
 
 | Data Item | Type | Deskripsi |
 | ------ | ------ | ------ |
-| id_program| varchar | Nomor auto increment id_program|
+| id_program | varchar | Nomor auto increment id_program|
 | nama_program | varchar | Nama program |
 | tanggal_program | date | Tanggal program |
 | keterangan_program| text | Keterangan program |
 | foto_program | varchar | Foto program |
+
+**Tabel Kalender Akademik**
+
+| Data Item | Type | Deskripsi |
+| ------ | ------ | ------ |
+| id_kalender | varchar | Nomor auto increment id_kalender |
+| tanggal | date | Tanggal kalender |
+| keterangan| text | Keterangan kalender |
+| file_1 | varchar | File kalender 1 |
+| file_2 | varchar | File kalender 2 |
+
+**Tabel Sejarah**
+
+| Data Item | Type | Deskripsi |
+| ------ | ------ | ------ |
+| id_sejarah | varchar | Nomor auto increment id_sejarah |
+| keterangan| text | Keterangan sejarah |
+| file | varchar | File sejarah |
+
+**Tabel Slider**
+
+| Data Item | Type | Deskripsi |
+| ------ | ------ | ------ |
+| id_slider | varchar | Nomor auto increment id_slider |
+| keterangan| text | Keterangan slider |
+| file | varchar | File slider |
+
+**Tabel Ucapan Kepala Sekolah**
+
+| Data Item | Type | Deskripsi |
+| ------ | ------ | ------ |
+| id_ucapan | varchar | Nomor auto increment id_ucapan |
+| nama | varchar | Nama kepala sekolah |
+| keterangan| text | Keterangan kepala sekolah |
+| foto | varchar | Foto kepala sekolah |
+
+**Tabel Visi dan Misi**
+
+| Data Item | Type | Deskripsi |
+| ------ | ------ | ------ |
+| id_visimisi | varchar | Nomor auto increment id_visimisi |
+| visi | varchar | Visi sekolah |
+| misi | varchar | Misi sekolah |
+
+**Tabel Tentang**
+
+| Data Item | Type | Deskripsi |
+| ------ | ------ | ------ |
+| id_tentang | varchar | Nomor auto increment id_tentang |
+| telepon | varchar | Telepon sekolah |
+| instagram | varchar | Instagram sekolah |
+| email | varchar | Email sekolah |
+| alamat | varchar | Alamat sekolah |
+| facebook | varchar | Facebook sekolah |
 
 Validasi Data Wawancara
 ----------
