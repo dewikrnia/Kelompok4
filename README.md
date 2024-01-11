@@ -746,6 +746,7 @@ Dokumentasi
 Dokumentasi dengan pihak SMP Al Azhar Syifa Budi Pekanbaru II.
 ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/dokumentasi2.jpeg)
 ![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/DOKUMENTASI.jpeg)
+![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/Dokumentasi%20Presentasi.jpeg)
 
 Job Desc
 ----------
