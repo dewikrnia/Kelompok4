@@ -35,7 +35,6 @@ Sistem Profile SMP Al Azhar Syifa Budi Pekanbaru II merupakan website yang digun
 1.4   Referensi
 ----------
 Referensi yang digunakan dalam pengembangan perangkat lunak ini adalah :
-- http://hasantarmizi.blogspot.co.id/2017/04/pengertian-sublime-text.html
 - IEEE. IEEE Std 830-1998 IEEE Recommended Practice for Software  Requirements Specifications. IEEE Computer Society, 1998. 1.5  Overview 
 - _SRSExample-webapp.pdf_
 
