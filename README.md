@@ -558,13 +558,13 @@ Logika Struktur terdapat pada bagian 3.3.1
 **3.3.1 Logika Struktur Data**
 Struktur data logika pada sistem Aplikasi presensi menggunakan kehadiran terdapat struktur Database yang dijelaskan menggunakan ERD.
 
-![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/ERD%20WEB%20SMP%20AL%20AZHAR.png)
+![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/ERD%20Website%20Profile%20Sekolah-Page-1.drawio.png)
 
 **Tabel Admin**
 
 | Data Item | Type | Deskripsi |
 | ------ | ------ | ------ |
-| id_user| varchar | Nomer auto increment id_admin |
+| id| varchar | Nomer auto increment id_admin |
 | username | varchar | berisikan username untuk akses login admin |
 | password | varchar | berisikan password untuk login admin |
 | email | varchar | berisikan email dari admin |
