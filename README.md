@@ -62,7 +62,7 @@ Website Profil SMP Al Azhar Syifa Budi Pekanbaru II adalah sebuah informasi dari
 
 **2.1.1 Antarmuka sistem**
 
-![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/Antarmuka%20Sistem2.png)
+![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/Antarmuka%20Sistem%20(2).png)
 
 Website Profil SMP Al Azhar Syifa Budi Pekanbaru II memiliki 1 user yaitu admin. Admin bertugas untuk mengelola semua data yang ada di sistem ini, sehingga nantinya dapat dilihat oleh user.
 
@@ -133,7 +133,7 @@ Tidak ada
    
 2.2 Spesifikasi Kebutuhan fungsional
 ----------
-![](https://github.com/dewikrnia/Kelompok4/blob/main/picture/Usecasebaru.png)
+![](https://github.com/dewikrnia/Kelompok4/blob/main/picture/Usecase%20-%20SMP%20AL%20AZHAR.png)
    
 **2.2.1 Admin Login**
 
@@ -558,7 +558,7 @@ Logika Struktur terdapat pada bagian 3.3.1
 **3.3.1 Logika Struktur Data**
 Struktur data logika pada sistem Aplikasi presensi menggunakan kehadiran terdapat struktur Database yang dijelaskan menggunakan ERD.
 
-![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/ERD%20Website%20Profile%20Sekolah-Page-1.drawio%20(1).png)
+![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/ERD%20WEB%20SMP%20AL%20AZHAR.png)
 
 **Tabel Admin**
 
@@ -673,6 +673,6 @@ Job Desc
 ----------
 | Nama | Tugas | 
 | ------ | ------ | 
-| Dewi Kurnia Sari | SRS, Desain Website |
-| Dyva Herza Nabila | SRS, Desain Website | 
-| Farra Rumaisyah | SRS, Desain Website | 
+| Dewi Kurnia Sari | SRS, Desain Website, Membuat Website |
+| Dyva Herza Nabila | SRS, Desain Website, Membuat Website | 
+| Farra Rumaisyah | SRS, Desain Website, Membuat Website | 
