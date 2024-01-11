@@ -323,7 +323,7 @@ Xref: Bagian 3.2.11, Melihat Akademik
 Use Case: Melihat Kontak
 
 Diagram:
-![enter image description here]()
+![enter image description here](https://github.com/dewikrnia/Kelompok4/blob/main/picture/melihatkontak.png)
 
 Deskripsi Singkat
 User melihat Kontak.
